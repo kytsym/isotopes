@@ -1,0 +1,5158 @@
+[
+  {
+    "n": 1,
+    "name": "Synth Pop / Electro",
+    "family": "synth",
+    "article": "Synth-pop",
+    "current": "Kraftwerk — Tour De France",
+    "isotopes": [
+      "Kraftwerk — The Model",
+      "The Human League — Don't You Want Me",
+      "Yazoo — Don't Go"
+    ],
+    "artists": [
+      "Kraftwerk",
+      "Daft Punk",
+      "The Midnight"
+    ],
+    "artistsOnWiki": [
+      "Kraftwerk"
+    ],
+    "flags": [],
+    "candidates": [
+      {
+        "artist": "Spandau Ballet and songs like Ultravox",
+        "title": "Vienna",
+        "where": "text"
+      },
+      {
+        "artist": "Normal",
+        "title": "Warm Leatherette",
+        "where": "text"
+      },
+      {
+        "artist": "Irving Berlin",
+        "title": "Puttin' On the Ritz",
+        "where": "text"
+      },
+      {
+        "artist": "Marc Almond",
+        "title": "pervy",
+        "where": "text"
+      },
+      {
+        "artist": "Lynskey identified 1981 as synth-pop",
+        "title": "annus mirabilis",
+        "where": "text"
+      }
+    ]
+  },
+  {
+    "n": 3,
+    "name": "Electro",
+    "family": "synth",
+    "article": "Electro (music)",
+    "current": "Afrika Bambaataa & The Soulsonic Force — Planet Rock",
+    "isotopes": [
+      "Cybotron — Clear",
+      "Man Parrish — Hip Hop, Be Bop (Don't Stop)",
+      "Drexciya — Bubble Metropolis"
+    ],
+    "artists": [
+      "Afrika Bambaataa",
+      "Drexciya",
+      "Anthony Rother"
+    ],
+    "artistsOnWiki": [
+      "Afrika Bambaataa",
+      "Drexciya",
+      "Anthony Rother"
+    ],
+    "flags": [],
+    "candidates": [
+      {
+        "artist": "Peter Gabriel",
+        "title": "No Self Control",
+        "where": "text"
+      },
+      {
+        "artist": "Marvin Gaye",
+        "title": "Sexual Healing,",
+        "where": "text"
+      },
+      {
+        "artist": "Cybotron",
+        "title": "Clear,",
+        "where": "text"
+      },
+      {
+        "artist": "Afrika Bambaataa",
+        "title": "Planet Rock.",
+        "where": "text"
+      },
+      {
+        "artist": "Kraftwerk",
+        "title": "Trans-Europe Express",
+        "where": "text"
+      },
+      {
+        "artist": "Hashim was influenced by Man Parrish",
+        "title": "Hip Hop, Be Bop",
+        "where": "text"
+      },
+      {
+        "artist": "Thomas Dolby",
+        "title": "She Blinded Me With Science",
+        "where": "text"
+      },
+      {
+        "artist": "Sakamoto",
+        "title": "Riot in Lagos",
+        "where": "text"
+      }
+    ]
+  },
+  {
+    "n": 11,
+    "name": "Synthwave",
+    "family": "synth",
+    "article": "Synthwave",
+    "current": "Kavinsky — Nightcall",
+    "isotopes": [
+      "College & Electric Youth — A Real Hero",
+      "The Midnight — Sunset",
+      "FM-84 — Running in the Night"
+    ],
+    "artists": [
+      "Kavinsky",
+      "The Midnight",
+      "Carpenter Brut"
+    ],
+    "artistsOnWiki": [
+      "Kavinsky",
+      "Carpenter Brut"
+    ],
+    "flags": [],
+    "candidates": [
+      {
+        "artist": "Tangerine Dream",
+        "title": "Love on a Real Train",
+        "where": "text"
+      },
+      {
+        "artist": "College",
+        "title": "A Real Hero",
+        "where": "text"
+      },
+      {
+        "artist": "Drive featured Kavinsky",
+        "title": "Nightcall",
+        "where": "text"
+      }
+    ]
+  },
+  {
+    "n": 19,
+    "name": "Electroclash",
+    "family": "synth",
+    "article": "Electroclash",
+    "current": "Fischerspooner — Emerge",
+    "isotopes": [
+      "Miss Kittin & The Hacker — Frank Sinatra",
+      "Tiga & Zyntherius — Sunglasses at Night",
+      "Peaches — Fuck the Pain Away"
+    ],
+    "artists": [
+      "Fischerspooner",
+      "Miss Kittin & The Hacker",
+      "Peaches"
+    ],
+    "artistsOnWiki": [
+      "Fischerspooner",
+      "Miss Kittin & The Hacker",
+      "Peaches"
+    ],
+    "flags": [],
+    "candidates": [
+      {
+        "artist": "New York duo Fischerspooner",
+        "title": "Emerge",
+        "where": "text"
+      },
+      {
+        "artist": "Canadian duo Tiga & Zyntherius",
+        "title": "Sunglasses at Night",
+        "where": "text"
+      },
+      {
+        "artist": "Corey Hart",
+        "title": "Sunglasses at Night",
+        "where": "text"
+      },
+      {
+        "artist": "Also I-F",
+        "title": "Space Invaders Are Smoking Grass",
+        "where": "text"
+      },
+      {
+        "artist": "Chris Korda",
+        "title": "Save The Planet, Kill Yourself",
+        "where": "ref"
+      },
+      {
+        "artist": "Miss Kittin And The Hacker*",
+        "title": "Champagne! E.P.",
+        "where": "ref"
+      },
+      {
+        "artist": "Fischerspooner",
+        "title": "Emerge",
+        "where": "ref"
+      },
+      {
+        "artist": "Tiga & Zyntherius",
+        "title": "Sunglasses EP",
+        "where": "ref"
+      },
+      {
+        "artist": "I-f",
+        "title": "Fucking Consumer",
+        "where": "ref"
+      }
+    ]
+  },
+  {
+    "n": 37,
+    "name": "Darksynth",
+    "family": "synth",
+    "article": "Synthwave",
+    "current": "Carpenter Brut — Turbo Killer",
+    "isotopes": [
+      "Perturbator — Future Club",
+      "Dance with the Dead — Robeast"
+    ],
+    "artists": [
+      "Carpenter Brut",
+      "Perturbator",
+      "Dance with the Dead"
+    ],
+    "artistsOnWiki": [
+      "Carpenter Brut",
+      "Dance with the Dead"
+    ],
+    "flags": [],
+    "candidates": [
+      {
+        "artist": "Tangerine Dream",
+        "title": "Love on a Real Train",
+        "where": "text"
+      },
+      {
+        "artist": "College",
+        "title": "A Real Hero",
+        "where": "text"
+      },
+      {
+        "artist": "Drive featured Kavinsky",
+        "title": "Nightcall",
+        "where": "text"
+      }
+    ]
+  },
+  {
+    "n": 55,
+    "name": "Vaporwave",
+    "family": "synth",
+    "article": "Vaporwave",
+    "current": "Macintosh Plus — リサフランク420 / 現代のコンピュー",
+    "isotopes": [
+      "Saint Pepsi — Private Caller"
+    ],
+    "artists": [
+      "Macintosh Plus",
+      "Saint Pepsi",
+      "James Ferraro"
+    ],
+    "artistsOnWiki": [
+      "Macintosh Plus",
+      "Saint Pepsi",
+      "James Ferraro"
+    ],
+    "flags": [],
+    "candidates": [
+      {
+        "artist": "Gary Low",
+        "title": "I Want You",
+        "where": "text"
+      },
+      {
+        "artist": "HOME onto Vine",
+        "title": "Resonance",
+        "where": "text"
+      },
+      {
+        "artist": "Washed Out",
+        "title": "Feel It All Around",
+        "where": "text"
+      },
+      {
+        "artist": "Lopatin",
+        "title": "chopped and screwed plunderphonics",
+        "where": "text"
+      },
+      {
+        "artist": "Hip-hop artist Drake",
+        "title": "Hotline Bling",
+        "where": "text"
+      }
+    ]
+  },
+  {
+    "n": 87,
+    "name": "EBM",
+    "family": "synth",
+    "article": "Electronic body music",
+    "current": "Front 242 — Headhunter",
+    "isotopes": [
+      "Nitzer Ebb — Join in the Chant",
+      "DAF — Der Mussolini"
+    ],
+    "artists": [
+      "Front 242",
+      "Nitzer Ebb",
+      "DAF"
+    ],
+    "artistsOnWiki": [
+      "Front 242",
+      "Nitzer Ebb",
+      "DAF"
+    ],
+    "flags": [],
+    "candidates": [
+      {
+        "artist": "Giorgio Moroder",
+        "title": "I Feel Love",
+        "where": "text"
+      }
+    ]
+  },
+  {
+    "n": 4,
+    "name": "Disco",
+    "family": "disco",
+    "article": "Disco",
+    "current": "Donna Summer — I Feel Love",
+    "isotopes": [
+      "Chic — Le Freak",
+      "Sister Sledge — Lost in Music",
+      "Gloria Gaynor — I Will Survive"
+    ],
+    "artists": [
+      "Chic",
+      "Donna Summer",
+      "Giorgio Moroder"
+    ],
+    "artistsOnWiki": [
+      "Chic",
+      "Donna Summer",
+      "Giorgio Moroder"
+    ],
+    "flags": [],
+    "candidates": [
+      {
+        "artist": "House Master Boyz",
+        "title": "House Nation",
+        "where": "text"
+      },
+      {
+        "artist": "Sophie Ellis-Bextor were hits",
+        "title": "Murder on the Dancefloor",
+        "where": "text"
+      },
+      {
+        "artist": "Daft Punk",
+        "title": "Get Lucky",
+        "where": "text"
+      },
+      {
+        "artist": "Ting Tings",
+        "title": "By Karmin, 'Wrong Club",
+        "where": "text"
+      },
+      {
+        "artist": "Queen",
+        "title": "Let Me in Your Heart Again",
+        "where": "text"
+      },
+      {
+        "artist": "Flo Rida",
+        "title": "I Don't Like It, I Love It",
+        "where": "text"
+      },
+      {
+        "artist": "Coldplay",
+        "title": "Adventure of a Lifetime",
+        "where": "text"
+      },
+      {
+        "artist": "Robin Thicke",
+        "title": "Back Together",
+        "where": "text"
+      },
+      {
+        "artist": "Hohner Clavinet. Donna Summer",
+        "title": "I Feel Love",
+        "where": "text"
+      },
+      {
+        "artist": "MC rhymes. The Sugarhill Gang used Chic",
+        "title": "Good Times",
+        "where": "text"
+      },
+      {
+        "artist": "Planet Patrol",
+        "title": "Play at Your Own Risk",
+        "where": "text"
+      },
+      {
+        "artist": "C-Bank",
+        "title": "One More Shot",
+        "where": "text"
+      },
+      {
+        "artist": "Cerrone",
+        "title": "Club Underworld",
+        "where": "text"
+      },
+      {
+        "artist": "Shannon",
+        "title": "Let the Music Play",
+        "where": "text"
+      },
+      {
+        "artist": "Freeez",
+        "title": "I.O.U.",
+        "where": "text"
+      },
+      {
+        "artist": "Midnight Star",
+        "title": "Freak-a-Zoid",
+        "where": "text"
+      },
+      {
+        "artist": "Chaka Khan",
+        "title": "I Feel For You",
+        "where": "text"
+      },
+      {
+        "artist": "Deee-Lite",
+        "title": "Groove Is in the Heart",
+        "where": "text"
+      },
+      {
+        "artist": "U2",
+        "title": "Lemon",
+        "where": "text"
+      },
+      {
+        "artist": "Blur",
+        "title": "Girls & Boys",
+        "where": "text"
+      },
+      {
+        "artist": "Pulp",
+        "title": "Disco 2000",
+        "where": "text"
+      },
+      {
+        "artist": "Jamiroquai",
+        "title": "Canned Heat",
+        "where": "text"
+      },
+      {
+        "artist": "A few examples like Daft Punk",
+        "title": "One More Time",
+        "where": "text"
+      },
+      {
+        "artist": "Kylie Minogue",
+        "title": "Love at First Sight",
+        "where": "text"
+      },
+      {
+        "artist": "Spiller",
+        "title": "Groovejet (If This Ain't Love)",
+        "where": "text"
+      },
+      {
+        "artist": "Modjo",
+        "title": "Lady (Hear Me Tonight)",
+        "where": "text"
+      },
+      {
+        "artist": "Jamiroquai",
+        "title": "Little L",
+        "where": "text"
+      },
+      {
+        "artist": "ABBA",
+        "title": "Gimme! Gimme! Gimme! (A Man After Midnight)",
+        "where": "text"
+      },
+      {
+        "artist": "40 that year were Robin Thicke",
+        "title": "Blurred Lines",
+        "where": "text"
+      },
+      {
+        "artist": "Justin Timberlake",
+        "title": "Take Back the Night",
+        "where": "text"
+      },
+      {
+        "artist": "Lady Gaga's Artpop and Katy Perry",
+        "title": "Birthday",
+        "where": "text"
+      },
+      {
+        "artist": "Maroon 5",
+        "title": "Sugar",
+        "where": "text"
+      },
+      {
+        "artist": "Weeknd",
+        "title": "Can't Feel My Face",
+        "where": "text"
+      },
+      {
+        "artist": "Jason Derulo",
+        "title": "Want To Want Me",
+        "where": "text"
+      },
+      {
+        "artist": "Justin Timberlake",
+        "title": "Can't Stop the Feeling!",
+        "where": "text"
+      },
+      {
+        "artist": "Doja Cat",
+        "title": "Say So",
+        "where": "text"
+      },
+      {
+        "artist": "Lady Gaga",
+        "title": "Stupid Love",
+        "where": "text"
+      },
+      {
+        "artist": "Dua Lipa",
+        "title": "Don't Start Now",
+        "where": "text"
+      },
+      {
+        "artist": "Taylor Swift",
+        "title": "Look What You Made Me Do",
+        "where": "text"
+      }
+    ]
+  },
+  {
+    "n": 12,
+    "name": "Boogie",
+    "family": "disco",
+    "article": "Boogie (genre)",
+    "current": "D Train — You're the One for Me",
+    "isotopes": [
+      "Yarbrough & Peoples — Don't Stop the Music",
+      "Peech Boys — Don't Make Me Wait",
+      "Kashif — I Just Gotta Have You"
+    ],
+    "artists": [
+      "D Train",
+      "Kashif",
+      "Yarbrough & Peoples"
+    ],
+    "artistsOnWiki": [
+      "D Train",
+      "Kashif"
+    ],
+    "flags": [],
+    "candidates": [
+      {
+        "artist": "Eddie Kendricks",
+        "title": "Boogie Down",
+        "where": "text"
+      },
+      {
+        "artist": "Kool",
+        "title": "Spirit of the Boogie",
+        "where": "text"
+      },
+      {
+        "artist": "Jimmy Castor Bunch",
+        "title": "The Bertha Butt Boogie",
+        "where": "text"
+      },
+      {
+        "artist": "Bee Gees",
+        "title": "Boogie Child",
+        "where": "text"
+      },
+      {
+        "artist": "Sylvers",
+        "title": "Boogie Fever",
+        "where": "text"
+      },
+      {
+        "artist": "Heatwave",
+        "title": "Boogie Nights",
+        "where": "text"
+      },
+      {
+        "artist": "Baccara",
+        "title": "Yes Sir, I Can Boogie",
+        "where": "text"
+      },
+      {
+        "artist": "KC",
+        "title": "Boogie Shoes",
+        "where": "text"
+      },
+      {
+        "artist": "A Taste of Honey",
+        "title": "Boogie Oogie Oogie",
+        "where": "text"
+      },
+      {
+        "artist": "Parliament",
+        "title": "Aqua Boogie",
+        "where": "text"
+      },
+      {
+        "artist": "Jacksons",
+        "title": "Blame It on the Boogie",
+        "where": "text"
+      },
+      {
+        "artist": "Earth",
+        "title": "Boogie Wonderland",
+        "where": "text"
+      },
+      {
+        "artist": "Afrikaa Bambaataa",
+        "title": "Planet Rock",
+        "where": "text"
+      },
+      {
+        "artist": "Marvin Gaye",
+        "title": "Sexual Healing",
+        "where": "text"
+      }
+    ]
+  },
+  {
+    "n": 20,
+    "name": "Hi-NRG",
+    "family": "disco",
+    "article": "Hi-NRG",
+    "current": "Sylvester — You Make Me Feel (Mighty Real)",
+    "isotopes": [
+      "Evelyn Thomas — High Energy",
+      "Hazell Dean — Searchin' (I Gotta Find a Man)",
+      "Dead or Alive — You Spin Me Round (Like a Record)"
+    ],
+    "artists": [
+      "Patrick Cowley",
+      "Sylvester",
+      "Evelyn Thomas"
+    ],
+    "artistsOnWiki": [
+      "Patrick Cowley",
+      "Sylvester",
+      "Evelyn Thomas"
+    ],
+    "flags": [],
+    "candidates": [
+      {
+        "artist": "first hi-NRG song was Donna Summer",
+        "title": "I Feel Love",
+        "where": "text"
+      },
+      {
+        "artist": "Hazell Dean",
+        "title": "Searchin' (I Gotta Find a Man)",
+        "where": "text"
+      },
+      {
+        "artist": "Evelyn Thomas",
+        "title": "High Energy",
+        "where": "text"
+      },
+      {
+        "artist": "Dead or Alive",
+        "title": "You Spin Me Round (Like a Record)",
+        "where": "text"
+      },
+      {
+        "artist": "Bananarama",
+        "title": "Venus",
+        "where": "text"
+      },
+      {
+        "artist": "Donna Summer",
+        "title": "This Time I Know It's for Real",
+        "where": "text"
+      }
+    ]
+  },
+  {
+    "n": 38,
+    "name": "Italo Disco",
+    "family": "disco",
+    "article": "Italo disco",
+    "current": "Kano — I'm Ready",
+    "isotopes": [
+      "Gazebo — I Like Chopin",
+      "Ryan Paris — Dolce Vita",
+      "Giorgio Moroder — Chase"
+    ],
+    "artists": [
+      "Giorgio Moroder",
+      "Klein + M.B.O.",
+      "Gazebo"
+    ],
+    "artistsOnWiki": [
+      "Giorgio Moroder",
+      "Klein + M.B.O."
+    ],
+    "flags": [
+      "track artist not in artist list"
+    ],
+    "candidates": [
+      {
+        "artist": "Lectric Workers",
+        "title": "Robot Is Systematic",
+        "where": "text"
+      },
+      {
+        "artist": "Charlie",
+        "title": "Spacer Woman",
+        "where": "text"
+      },
+      {
+        "artist": "Meco",
+        "title": "Star Wars Theme/Cantina Band",
+        "where": "text"
+      },
+      {
+        "artist": "Dee D",
+        "title": "Automatic Lover",
+        "where": "text"
+      },
+      {
+        "artist": "Ryan Paris",
+        "title": "Dolce Vita",
+        "where": "text"
+      },
+      {
+        "artist": "Laura Branigan",
+        "title": "Self Control",
+        "where": "text"
+      },
+      {
+        "artist": "Baltimora",
+        "title": "Tarzan Boy",
+        "where": "text"
+      },
+      {
+        "artist": "Spagna",
+        "title": "Call Me",
+        "where": "text"
+      },
+      {
+        "artist": "Sabrina",
+        "title": "Boys",
+        "where": "text"
+      },
+      {
+        "artist": "Various",
+        "title": "The Best Of Italo-Disco",
+        "where": "ref"
+      }
+    ]
+  },
+  {
+    "n": 56,
+    "name": "Space Disco",
+    "family": "disco",
+    "article": "Italo disco",
+    "current": "Cerrone — Supernature",
+    "isotopes": [
+      "Space — Magic Fly",
+      "Lindstrøm — I Feel Space"
+    ],
+    "artists": [
+      "Cerrone",
+      "Space",
+      "Didier Marouani"
+    ],
+    "artistsOnWiki": [
+      "Cerrone",
+      "Space",
+      "Didier Marouani"
+    ],
+    "flags": [],
+    "candidates": [
+      {
+        "artist": "Lectric Workers",
+        "title": "Robot Is Systematic",
+        "where": "text"
+      },
+      {
+        "artist": "Charlie",
+        "title": "Spacer Woman",
+        "where": "text"
+      },
+      {
+        "artist": "Meco",
+        "title": "Star Wars Theme/Cantina Band",
+        "where": "text"
+      },
+      {
+        "artist": "Dee D",
+        "title": "Automatic Lover",
+        "where": "text"
+      },
+      {
+        "artist": "Ryan Paris",
+        "title": "Dolce Vita",
+        "where": "text"
+      },
+      {
+        "artist": "Laura Branigan",
+        "title": "Self Control",
+        "where": "text"
+      },
+      {
+        "artist": "Baltimora",
+        "title": "Tarzan Boy",
+        "where": "text"
+      },
+      {
+        "artist": "Spagna",
+        "title": "Call Me",
+        "where": "text"
+      },
+      {
+        "artist": "Sabrina",
+        "title": "Boys",
+        "where": "text"
+      },
+      {
+        "artist": "Various",
+        "title": "The Best Of Italo-Disco",
+        "where": "ref"
+      }
+    ]
+  },
+  {
+    "n": 88,
+    "name": "Nu-Disco",
+    "family": "disco",
+    "article": "Nu-disco",
+    "current": "Purple Disco Machine — Hypnotized",
+    "isotopes": [
+      "Breakbot — Baby I'm Yours",
+      "Aeroplane — We Can't Fly",
+      "Classixx — Holding On"
+    ],
+    "artists": [
+      "Purple Disco Machine",
+      "Aeroplane",
+      "Late Nite Tuff Guy"
+    ],
+    "artistsOnWiki": [
+      "Aeroplane"
+    ],
+    "flags": [
+      "track artist not on Wikipedia"
+    ],
+    "candidates": [
+      {
+        "artist": "Daft Punk",
+        "title": "Get Lucky",
+        "where": "text"
+      },
+      {
+        "artist": "Breakbot",
+        "title": "Baby I'm Yours",
+        "where": "text"
+      },
+      {
+        "artist": "Classixx",
+        "title": "Holding On",
+        "where": "text"
+      },
+      {
+        "artist": "Popular tracks such as Kylie Minogue",
+        "title": "Love at First Sight",
+        "where": "text"
+      },
+      {
+        "artist": "Sophie Ellis-Bextor",
+        "title": "Take Me Home",
+        "where": "text"
+      },
+      {
+        "artist": "Madonna",
+        "title": "Hung Up",
+        "where": "text"
+      },
+      {
+        "artist": "Jamiroquai",
+        "title": "Little L",
+        "where": "text"
+      },
+      {
+        "artist": "Tensnake",
+        "title": "Coma Cat",
+        "where": "text"
+      },
+      {
+        "artist": "Robin Thicke",
+        "title": "Blurred Lines",
+        "where": "text"
+      },
+      {
+        "artist": "Swift",
+        "title": "Style",
+        "where": "text"
+      },
+      {
+        "artist": "Daft Punk",
+        "title": "One More Time",
+        "where": "text"
+      },
+      {
+        "artist": "Lindstrom",
+        "title": "Norse House",
+        "where": "text"
+      }
+    ]
+  },
+  {
+    "n": 21,
+    "name": "Chicago House",
+    "family": "house",
+    "article": "Chicago house",
+    "current": "Frankie Knuckles — Your Love",
+    "isotopes": [
+      "Marshall Jefferson — Move Your Body",
+      "Jesse Saunders — On and On",
+      "Farley Jackmaster Funk — Love Can't Turn Around"
+    ],
+    "artists": [
+      "Frankie Knuckles",
+      "Larry Heard",
+      "Marshall Jefferson"
+    ],
+    "artistsOnWiki": [
+      "Frankie Knuckles"
+    ],
+    "flags": [],
+    "candidates": [
+      {
+        "artist": "Chip E",
+        "title": "Time to Jack",
+        "where": "text"
+      },
+      {
+        "artist": "Player One",
+        "title": "Space Invaders",
+        "where": "text"
+      },
+      {
+        "artist": "Chip E.",
+        "title": "Jack Trax",
+        "where": "text"
+      },
+      {
+        "artist": "Phuture",
+        "title": "Acid Tracks",
+        "where": "text"
+      },
+      {
+        "artist": "Hurley",
+        "title": "Jack Your Body",
+        "where": "text"
+      },
+      {
+        "artist": "Jesse Saunders",
+        "title": "On And On",
+        "where": "ref"
+      }
+    ]
+  },
+  {
+    "n": 22,
+    "name": "Acid House",
+    "family": "house",
+    "article": "Acid house",
+    "current": "Phuture — Acid Tracks",
+    "isotopes": [
+      "A Guy Called Gerald — Voodoo Ray",
+      "Sleezy D — I've Lost Control",
+      "D-Mob — We Call It Acieed"
+    ],
+    "artists": [
+      "Phuture",
+      "A Guy Called Gerald",
+      "808 State"
+    ],
+    "artistsOnWiki": [
+      "Phuture",
+      "A Guy Called Gerald",
+      "808 State"
+    ],
+    "flags": [],
+    "candidates": [
+      {
+        "artist": "5 years",
+        "title": "Acid Trax",
+        "where": "text"
+      },
+      {
+        "artist": "Phuture",
+        "title": "Acid Tracks",
+        "where": "text"
+      },
+      {
+        "artist": "DJ Pierre's Pfantasy Club",
+        "title": "Fantasy Girl",
+        "where": "text"
+      },
+      {
+        "artist": "Phuture",
+        "title": "Slam",
+        "where": "text"
+      },
+      {
+        "artist": "Sleezy D",
+        "title": "I've Lost Control",
+        "where": "text"
+      },
+      {
+        "artist": "Baby Ford",
+        "title": "Chikki Chikki Ahh Ahh",
+        "where": "text"
+      },
+      {
+        "artist": "D Mob",
+        "title": "We Call It Acieed",
+        "where": "text"
+      },
+      {
+        "artist": "Funk",
+        "title": "Love Can't Turn Around",
+        "where": "text"
+      }
+    ]
+  },
+  {
+    "n": 23,
+    "name": "Deep House",
+    "family": "house",
+    "article": "Deep house",
+    "current": "Mr. Fingers — Can You Feel It",
+    "isotopes": [
+      "Kerri Chandler — Rain",
+      "Moodymann — I Can't Kick This Feeling When It Hits",
+      "Lane 8 — Fingerprint"
+    ],
+    "artists": [
+      "Larry Heard",
+      "Kerri Chandler",
+      "Lane 8"
+    ],
+    "artistsOnWiki": [
+      "Larry Heard",
+      "Kerri Chandler"
+    ],
+    "flags": [
+      "track artist not in artist list"
+    ],
+    "candidates": [
+      {
+        "artist": "Derrick May",
+        "title": "Strings of Life",
+        "where": "text"
+      }
+    ]
+  },
+  {
+    "n": 24,
+    "name": "Garage House",
+    "family": "house",
+    "article": "Garage house",
+    "current": "Ten City — That's the Way Love Is",
+    "isotopes": [
+      "Adeva — Respect",
+      "Gwen Guthrie — Ain't Nothin' Goin' On but the Rent",
+      "Todd Edwards — Saved My Life"
+    ],
+    "artists": [
+      "Larry Levan",
+      "Ten City",
+      "Todd Edwards"
+    ],
+    "artistsOnWiki": [
+      "Larry Levan"
+    ],
+    "flags": [
+      "track artist not on Wikipedia"
+    ],
+    "candidates": [
+      {
+        "artist": "Gwen Guthrie",
+        "title": "Padlock (Cassette)",
+        "where": "ref"
+      }
+    ]
+  },
+  {
+    "n": 25,
+    "name": "Hip House",
+    "family": "house",
+    "article": "Hip house",
+    "current": "Fast Eddie — Yo Yo Get Funky!",
+    "isotopes": [
+      "Tyree Cooper — Turn Up the Bass",
+      "Jungle Brothers — I'll House You",
+      "Technotronic — Pump Up the Jam"
+    ],
+    "artists": [
+      "Fast Eddie",
+      "Tyree Cooper",
+      "Jungle Brothers"
+    ],
+    "artistsOnWiki": [
+      "Fast Eddie",
+      "Tyree Cooper"
+    ],
+    "flags": [],
+    "candidates": [
+      {
+        "artist": "Wolfgang Gartner",
+        "title": "Forever",
+        "where": "text"
+      },
+      {
+        "artist": "Tony Scott",
+        "title": "That's How I'm Living",
+        "where": "text"
+      }
+    ]
+  },
+  {
+    "n": 26,
+    "name": "Ghetto House",
+    "family": "house",
+    "article": "Ghetto house",
+    "current": "Paul Johnson — Get Get Down",
+    "isotopes": [
+      "Cajmere — Percolator",
+      "Paul Johnson — Feel My M.F. Bass"
+    ],
+    "artists": [
+      "DJ Funk",
+      "Paul Johnson",
+      "DJ Deeon"
+    ],
+    "artistsOnWiki": [
+      "DJ Funk",
+      "DJ Deeon"
+    ],
+    "flags": [
+      "track artist not on Wikipedia"
+    ],
+    "candidates": [
+      {
+        "artist": "Cajmere",
+        "title": "It's Time for the Percolator",
+        "where": "text"
+      }
+    ]
+  },
+  {
+    "n": 27,
+    "name": "Italo House",
+    "family": "house",
+    "article": "Italo house",
+    "current": "Black Box — Ride on Time",
+    "isotopes": [
+      "Starlight — Numero Uno",
+      "49ers — Touch Me",
+      "DJ H feat. Stefy — Think About"
+    ],
+    "artists": [
+      "Black Box",
+      "Starlight",
+      "49ers"
+    ],
+    "artistsOnWiki": [
+      "Black Box",
+      "49ers"
+    ],
+    "flags": [],
+    "candidates": [
+      {
+        "artist": "best known example is Black Box",
+        "title": "Ride on Time",
+        "where": "text"
+      },
+      {
+        "artist": "91 with tunes including Asha",
+        "title": "JJ Tribute",
+        "where": "text"
+      },
+      {
+        "artist": "DJ H",
+        "title": "Think About",
+        "where": "text"
+      },
+      {
+        "artist": "Last Rhythm",
+        "title": "Last Rhythm",
+        "where": "text"
+      },
+      {
+        "artist": "Jinny",
+        "title": "Keep Warm",
+        "where": "text"
+      }
+    ]
+  },
+  {
+    "n": 28,
+    "name": "Diva House",
+    "family": "house",
+    "article": null,
+    "current": "Robin S — Show Me Love",
+    "isotopes": [
+      "CeCe Peniston — Finally",
+      "Crystal Waters — Gypsy Woman",
+      "Ultra Naté — Free"
+    ],
+    "artists": [
+      "Robin S",
+      "CeCe Peniston",
+      "Crystal Waters"
+    ],
+    "artistsOnWiki": [],
+    "flags": [
+      "no article"
+    ],
+    "candidates": []
+  },
+  {
+    "n": 29,
+    "name": "Soulful House",
+    "family": "house",
+    "article": null,
+    "current": "Barbara Tucker — Beautiful People",
+    "isotopes": [
+      "Joey Negro — Make a Move on Me",
+      "Masters At Work feat. India — To Be in Love",
+      "Dennis Ferrer — Hey Hey"
+    ],
+    "artists": [
+      "Frankie Feliciano",
+      "Louie Vega",
+      "Joey Negro"
+    ],
+    "artistsOnWiki": [],
+    "flags": [
+      "no article"
+    ],
+    "candidates": []
+  },
+  {
+    "n": 30,
+    "name": "Tribal House",
+    "family": "house",
+    "article": "Tribal house",
+    "current": "Danny Tenaglia — Music Is the Answer",
+    "isotopes": [
+      "Junior Vasquez — If Madonna Calls",
+      "Danny Tenaglia — Elements"
+    ],
+    "artists": [
+      "Junior Vasquez",
+      "Danny Tenaglia",
+      "Erick Morillo"
+    ],
+    "artistsOnWiki": [
+      "Junior Vasquez",
+      "Danny Tenaglia"
+    ],
+    "flags": [
+      "article names no tracks"
+    ],
+    "candidates": []
+  },
+  {
+    "n": 39,
+    "name": "French House",
+    "family": "house",
+    "article": "French house",
+    "current": "Stardust — Music Sounds Better with You",
+    "isotopes": [
+      "Daft Punk — Around the World",
+      "Cassius — 1999",
+      "Modjo — Lady (Hear Me Tonight)"
+    ],
+    "artists": [
+      "Daft Punk",
+      "Stardust",
+      "Cassius"
+    ],
+    "artistsOnWiki": [
+      "Daft Punk",
+      "Stardust",
+      "Cassius"
+    ],
+    "flags": [
+      "article names no tracks"
+    ],
+    "candidates": []
+  },
+  {
+    "n": 40,
+    "name": "Disco House",
+    "family": "house",
+    "article": "French house",
+    "current": "Spiller — Groovejet (If This Ain't Love)",
+    "isotopes": [
+      "Room 5 feat. Oliver Cheatham — Make Luv",
+      "Joey Negro — Must Be the Music"
+    ],
+    "artists": [
+      "Daft Punk",
+      "Spiller",
+      "Joey Negro"
+    ],
+    "artistsOnWiki": [
+      "Daft Punk"
+    ],
+    "flags": [
+      "track artist not on Wikipedia",
+      "article names no tracks"
+    ],
+    "candidates": []
+  },
+  {
+    "n": 41,
+    "name": "Funky House",
+    "family": "house",
+    "article": "Funky house",
+    "current": "Armand Van Helden — You Don't Know Me",
+    "isotopes": [
+      "Roger Sanchez — Another Chance",
+      "Bob Sinclar — I Feel for You"
+    ],
+    "artists": [
+      "Armand Van Helden",
+      "Roger Sanchez",
+      "Bob Sinclar"
+    ],
+    "artistsOnWiki": [
+      "Armand Van Helden"
+    ],
+    "flags": [],
+    "candidates": [
+      {
+        "artist": "Shouse exemplifies a deep house track",
+        "title": "Love Tonight",
+        "where": "text"
+      },
+      {
+        "artist": "Defected",
+        "title": "In the House",
+        "where": "text"
+      },
+      {
+        "artist": "Hed Kandi",
+        "title": "Beach House.",
+        "where": "text"
+      },
+      {
+        "artist": "Fisher",
+        "title": "You Little Beauty",
+        "where": "ref"
+      },
+      {
+        "artist": "Matroda",
+        "title": "The Movement",
+        "where": "ref"
+      },
+      {
+        "artist": "Adeva",
+        "title": "In And Out Of My Life (Club Mix) 1988",
+        "where": "ref"
+      },
+      {
+        "artist": "SHOUSE",
+        "title": "Love Tonight (Official Radio Edit)",
+        "where": "ref"
+      }
+    ]
+  },
+  {
+    "n": 42,
+    "name": "Progressive House",
+    "family": "house",
+    "article": "Progressive house",
+    "current": "Eric Prydz — Opus",
+    "isotopes": [
+      "deadmau5 — Strobe",
+      "Leftfield — Not Forgotten",
+      "Gat Decor — Passion"
+    ],
+    "artists": [
+      "Sasha",
+      "Eric Prydz",
+      "Anjunadeep"
+    ],
+    "artistsOnWiki": [
+      "Eric Prydz"
+    ],
+    "flags": [],
+    "candidates": [
+      {
+        "artist": "Deadmau5 is a good example",
+        "title": "Strobe",
+        "where": "text"
+      },
+      {
+        "artist": "2003 seminal remix release PQM",
+        "title": "You Are Sleeping",
+        "where": "text"
+      },
+      {
+        "artist": "These included Leftfield",
+        "title": "Not Forgotten",
+        "where": "text"
+      },
+      {
+        "artist": "Slam",
+        "title": "IBO/Eterna",
+        "where": "text"
+      },
+      {
+        "artist": "Gat Decor",
+        "title": "Passion",
+        "where": "text"
+      },
+      {
+        "artist": "Spooky",
+        "title": "Don't Panic",
+        "where": "text"
+      }
+    ]
+  },
+  {
+    "n": 43,
+    "name": "Tech House",
+    "family": "house",
+    "article": "Tech house",
+    "current": "FISHER — Losing It",
+    "isotopes": [
+      "Solomun — Customer Is King",
+      "Patrick Topping — Be Sharp Say Nowt"
+    ],
+    "artists": [
+      "Solomun",
+      "Patrick Topping",
+      "Sonny Fodera"
+    ],
+    "artistsOnWiki": [
+      "Patrick Topping"
+    ],
+    "flags": [
+      "track artist not in artist list",
+      "article names no tracks"
+    ],
+    "candidates": []
+  },
+  {
+    "n": 44,
+    "name": "Hard House",
+    "family": "house",
+    "article": "UK hard house",
+    "current": "Tony De Vit — Burning Up",
+    "isotopes": [
+      "Interactive — Amok",
+      "Klubbheads — Discohopping"
+    ],
+    "artists": [
+      "Tony De Vit",
+      "Lisa Lashes",
+      "BK"
+    ],
+    "artistsOnWiki": [
+      "Tony De Vit"
+    ],
+    "flags": [],
+    "candidates": [
+      {
+        "artist": "I would say that tunes such as XVX",
+        "title": "Tremorra Del Terra",
+        "where": "text"
+      },
+      {
+        "artist": "Interactive",
+        "title": "Amok",
+        "where": "text"
+      },
+      {
+        "artist": "Ultimate Seduction",
+        "title": "A Walking Nightmare (Klubbheads GP Mix)",
+        "where": "text"
+      }
+    ]
+  },
+  {
+    "n": 45,
+    "name": "Electro House",
+    "family": "house",
+    "article": "Electro house",
+    "current": "Benny Benassi — Satisfaction",
+    "isotopes": [
+      "Fedde Le Grand — Put Your Hands Up for Detroit",
+      "deadmau5 — Ghosts 'n' Stuff",
+      "Justice — Waters of Nazareth"
+    ],
+    "artists": [
+      "Benny Benassi",
+      "Justice",
+      "Deadmau5"
+    ],
+    "artistsOnWiki": [
+      "Benny Benassi",
+      "Justice",
+      "Deadmau5"
+    ],
+    "flags": [],
+    "candidates": [
+      {
+        "artist": "Arrivers",
+        "title": "Dark Invader",
+        "where": "text"
+      },
+      {
+        "artist": "Basement Jaxx",
+        "title": "Raw S*it",
+        "where": "text"
+      },
+      {
+        "artist": "Fedde Le Grand",
+        "title": "Put Your Hands Up For Detroit",
+        "where": "text"
+      },
+      {
+        "artist": "Bodyrox",
+        "title": "Yeah Yeah",
+        "where": "text"
+      }
+    ]
+  },
+  {
+    "n": 46,
+    "name": "Microhouse",
+    "family": "house",
+    "article": "Microhouse",
+    "current": "Isolée — Beau Mot Plage",
+    "isotopes": [
+      "Akufen — Deck the House",
+      "Luomo — Tessio"
+    ],
+    "artists": [
+      "Isolée",
+      "Akufen",
+      "Ricardo Villalobos"
+    ],
+    "artistsOnWiki": [
+      "Isolée",
+      "Akufen",
+      "Ricardo Villalobos"
+    ],
+    "flags": [],
+    "candidates": [
+      {
+        "artist": "Luomo is a hallmark album",
+        "title": "Vocalcity",
+        "where": "text"
+      },
+      {
+        "artist": "Akufen",
+        "title": "Deck the House",
+        "where": "text"
+      }
+    ]
+  },
+  {
+    "n": 47,
+    "name": "Speed Garage",
+    "family": "house",
+    "article": "Speed garage",
+    "current": "Double 99 — RIP Groove",
+    "isotopes": [
+      "Tina Moore — Never Gonna Let You Go (Kelly G Remix)",
+      "CJ Bolland — Sugar Is Sweeter (Armand Van Helden Remix)",
+      "Serious Danger — Deeper"
+    ],
+    "artists": [
+      "Double 99",
+      "Armand Van Helden",
+      "Tuff Jam"
+    ],
+    "artistsOnWiki": [
+      "Double 99",
+      "Armand Van Helden",
+      "Tuff Jam"
+    ],
+    "flags": [],
+    "candidates": [
+      {
+        "artist": "Helden. Van Helden's remix of CJ Bolland",
+        "title": "Sugar is Sweeter",
+        "where": "text"
+      },
+      {
+        "artist": "Double 99",
+        "title": "RipGroove",
+        "where": "text"
+      },
+      {
+        "artist": "Serious Danger",
+        "title": "Deeper",
+        "where": "text"
+      },
+      {
+        "artist": "1997 Kelly G remix of Tina Moore",
+        "title": "Never Gonna Let You Go",
+        "where": "text"
+      }
+    ]
+  },
+  {
+    "n": 48,
+    "name": "Lo-fi House",
+    "family": "house",
+    "article": null,
+    "current": "DJ Boring — Winona",
+    "isotopes": [
+      "Ross From Friends — Talk to Me You'll Understand",
+      "DJ Seinfeld — U"
+    ],
+    "artists": [
+      "DJ Boring",
+      "Ross From Friends",
+      "DJ Seinfeld"
+    ],
+    "artistsOnWiki": [],
+    "flags": [
+      "no article"
+    ],
+    "candidates": []
+  },
+  {
+    "n": 72,
+    "name": "Fidget House",
+    "family": "house",
+    "article": null,
+    "current": "Kid Cudi — Day 'n' Nite (Crookers Remix)",
+    "isotopes": [
+      "Switch — A Bit Patchy",
+      "Jack Beats — Get Down"
+    ],
+    "artists": [
+      "Crookers",
+      "Switch",
+      "Sinden"
+    ],
+    "artistsOnWiki": [],
+    "flags": [
+      "no article"
+    ],
+    "candidates": []
+  },
+  {
+    "n": 73,
+    "name": "Complextro",
+    "family": "house",
+    "article": "Electro house",
+    "current": "Wolfgang Gartner — Illmerica",
+    "isotopes": [
+      "Knife Party — Internet Friends",
+      "Porter Robinson — Unison"
+    ],
+    "artists": [
+      "Wolfgang Gartner",
+      "Porter Robinson",
+      "Knife Party"
+    ],
+    "artistsOnWiki": [
+      "Wolfgang Gartner",
+      "Porter Robinson",
+      "Knife Party"
+    ],
+    "flags": [],
+    "candidates": [
+      {
+        "artist": "Arrivers",
+        "title": "Dark Invader",
+        "where": "text"
+      },
+      {
+        "artist": "Basement Jaxx",
+        "title": "Raw S*it",
+        "where": "text"
+      },
+      {
+        "artist": "Fedde Le Grand",
+        "title": "Put Your Hands Up For Detroit",
+        "where": "text"
+      },
+      {
+        "artist": "Bodyrox",
+        "title": "Yeah Yeah",
+        "where": "text"
+      }
+    ]
+  },
+  {
+    "n": 74,
+    "name": "Big Room House",
+    "family": "house",
+    "article": "Big room house",
+    "current": "Martin Garrix — Animals",
+    "isotopes": [
+      "Hardwell — Spaceman",
+      "Showtek & Justin Prime — Cannonball"
+    ],
+    "artists": [
+      "Martin Garrix",
+      "Hardwell",
+      "W&W"
+    ],
+    "artistsOnWiki": [
+      "Martin Garrix",
+      "Hardwell",
+      "W&W"
+    ],
+    "flags": [
+      "article names no tracks"
+    ],
+    "candidates": []
+  },
+  {
+    "n": 75,
+    "name": "Dutch House",
+    "family": "house",
+    "article": "Electro house",
+    "current": "Afrojack & Eva Simons — Take Over Control",
+    "isotopes": [
+      "Sidney Samson — Riverside",
+      "Afrojack — Rock the House"
+    ],
+    "artists": [
+      "Afrojack",
+      "Chuckie",
+      "Laidback Luke"
+    ],
+    "artistsOnWiki": [
+      "Afrojack",
+      "Chuckie"
+    ],
+    "flags": [],
+    "candidates": [
+      {
+        "artist": "Arrivers",
+        "title": "Dark Invader",
+        "where": "text"
+      },
+      {
+        "artist": "Basement Jaxx",
+        "title": "Raw S*it",
+        "where": "text"
+      },
+      {
+        "artist": "Fedde Le Grand",
+        "title": "Put Your Hands Up For Detroit",
+        "where": "text"
+      },
+      {
+        "artist": "Bodyrox",
+        "title": "Yeah Yeah",
+        "where": "text"
+      }
+    ]
+  },
+  {
+    "n": 76,
+    "name": "Deep Tech",
+    "family": "house",
+    "article": "Deep tech",
+    "current": "Azari & III — Hungry for the Power (Jamie Jones Remix)",
+    "isotopes": [
+      "Jamie Jones — My Paradise",
+      "Hot Natured — Benediction"
+    ],
+    "artists": [
+      "Jamie Jones",
+      "Lee Foss",
+      "Chris Stussy"
+    ],
+    "artistsOnWiki": [],
+    "flags": [
+      "track artist not in artist list",
+      "track artist not on Wikipedia",
+      "article names no tracks"
+    ],
+    "candidates": []
+  },
+  {
+    "n": 77,
+    "name": "Tropical House",
+    "family": "house",
+    "article": null,
+    "current": "Kygo — Firestone",
+    "isotopes": [
+      "Felix Jaehn — Ain't Nobody (Loves Me Better)",
+      "Robin Schulz — Prayer in C"
+    ],
+    "artists": [
+      "Kygo",
+      "Thomas Jack",
+      "Felix Jaehn"
+    ],
+    "artistsOnWiki": [],
+    "flags": [
+      "no article"
+    ],
+    "candidates": []
+  },
+  {
+    "n": 78,
+    "name": "Future House",
+    "family": "house",
+    "article": "Future house",
+    "current": "Oliver Heldens — Gecko (Overdrive)",
+    "isotopes": [
+      "Tchami — Promesses",
+      "Don Diablo — Cutting Shapes"
+    ],
+    "artists": [
+      "Tchami",
+      "Oliver Heldens",
+      "Don Diablo"
+    ],
+    "artistsOnWiki": [
+      "Tchami",
+      "Oliver Heldens",
+      "Don Diablo"
+    ],
+    "flags": [],
+    "candidates": [
+      {
+        "artist": "2013 remix of Janet Jackson",
+        "title": "Go Deep",
+        "where": "text"
+      }
+    ]
+  },
+  {
+    "n": 79,
+    "name": "Melodic House",
+    "family": "house",
+    "article": null,
+    "current": "Ben Böhmer — Beyond Beliefs",
+    "isotopes": [
+      "RÜFÜS DU SOL — Innerbloom",
+      "Ben Böhmer — Breathing"
+    ],
+    "artists": [
+      "Tale Of Us",
+      "Ben Böhmer",
+      "Rampue"
+    ],
+    "artistsOnWiki": [],
+    "flags": [
+      "no article"
+    ],
+    "candidates": []
+  },
+  {
+    "n": 80,
+    "name": "Bass House",
+    "family": "house",
+    "article": null,
+    "current": "Jauz — Feel the Volume",
+    "isotopes": [
+      "Chris Lake — Turn Off the Lights",
+      "Joyryde — Hot Drum"
+    ],
+    "artists": [
+      "AC Slater",
+      "Chris Lake",
+      "Jauz"
+    ],
+    "artistsOnWiki": [],
+    "flags": [
+      "no article"
+    ],
+    "candidates": []
+  },
+  {
+    "n": 104,
+    "name": "Afro House",
+    "family": "house",
+    "article": "Afro house",
+    "current": "Black Coffee — Superman",
+    "isotopes": [
+      "Mafikizolo ft. Uhuru — Khona",
+      "Culoe De Song — The Bright Forest"
+    ],
+    "artists": [
+      "Black Coffee",
+      "&ME",
+      "Keinemusik"
+    ],
+    "artistsOnWiki": [
+      "Black Coffee",
+      "&ME",
+      "Keinemusik"
+    ],
+    "flags": [],
+    "candidates": [
+      {
+        "artist": "Grammy-award-winning musician",
+        "title": "Osama",
+        "where": "text"
+      },
+      {
+        "artist": "Malaika",
+        "title": "Destiny",
+        "where": "text"
+      },
+      {
+        "artist": "DJ Sbu",
+        "title": "Remember When It Rained",
+        "where": "text"
+      },
+      {
+        "artist": "Mafikizolo featuring Uhuru",
+        "title": "Khona",
+        "where": "text"
+      }
+    ]
+  },
+  {
+    "n": 105,
+    "name": "Organic House",
+    "family": "house",
+    "article": null,
+    "current": "Monolink — Return to Oz (ARTBAT Remix)",
+    "isotopes": [
+      "Bedouin — Up in Flames"
+    ],
+    "artists": [
+      "Monolink",
+      "Bedouin",
+      "Sabo"
+    ],
+    "artistsOnWiki": [],
+    "flags": [
+      "no article"
+    ],
+    "candidates": []
+  },
+  {
+    "n": 106,
+    "name": "Slap House",
+    "family": "house",
+    "article": "Styles of house music",
+    "current": "SAINt JHN — Roses (Imanbek Remix)",
+    "isotopes": [
+      "Topic & A7S — Breaking Me",
+      "Imanbek & Byor — Belly Dancer"
+    ],
+    "artists": [
+      "Imanbek",
+      "Alok",
+      "Topic"
+    ],
+    "artistsOnWiki": [
+      "Alok"
+    ],
+    "flags": [
+      "track artist not in artist list",
+      "track artist not on Wikipedia"
+    ],
+    "candidates": [
+      {
+        "artist": "Kevin Aviance",
+        "title": "Cunty",
+        "where": "text"
+      },
+      {
+        "artist": "DJ Snat",
+        "title": "Choose Your Power",
+        "where": "text"
+      }
+    ]
+  },
+  {
+    "n": 107,
+    "name": "Brazilian Bass",
+    "family": "house",
+    "article": "Music of Brazil",
+    "current": "Alok — Hear Me Now",
+    "isotopes": [
+      "Vintage Culture — Wild Kidz",
+      "Dubdogz & Bhaskar — Infinity"
+    ],
+    "artists": [
+      "Alok",
+      "Dubdogz",
+      "Vintage Culture"
+    ],
+    "artistsOnWiki": [
+      "Alok",
+      "Vintage Culture"
+    ],
+    "flags": [],
+    "candidates": [
+      {
+        "artist": "Nora Ney",
+        "title": "Ronda Das Horas",
+        "where": "text"
+      },
+      {
+        "artist": "Surra",
+        "title": "Bandcamp",
+        "where": "ref"
+      },
+      {
+        "artist": "Manger Cadavre?",
+        "title": "Bandcamp",
+        "where": "ref"
+      }
+    ]
+  },
+  {
+    "n": 108,
+    "name": "Afro Tech",
+    "family": "house",
+    "article": "Afro tech",
+    "current": "&ME, Rampa, Adam Port — The Rapture Pt.III",
+    "isotopes": [
+      "Adam Port & Stryv — Move",
+      "Black Coffee — We Dance Again"
+    ],
+    "artists": [
+      "Keinemusik",
+      "Adam Port",
+      "Rampa"
+    ],
+    "artistsOnWiki": [],
+    "flags": [],
+    "candidates": [
+      {
+        "artist": "McLloyd",
+        "title": "Tembisa Funk",
+        "where": "text"
+      },
+      {
+        "artist": "Blackwhole",
+        "title": "1000 seconds",
+        "where": "text"
+      },
+      {
+        "artist": "Punk Mbedzi",
+        "title": "6th Sense",
+        "where": "text"
+      },
+      {
+        "artist": "Black Coffee",
+        "title": "We Dance Again",
+        "where": "text"
+      },
+      {
+        "artist": "They remixed Tamela Mann",
+        "title": "Mysterious Ways",
+        "where": "text"
+      }
+    ]
+  },
+  {
+    "n": 109,
+    "name": "Latin House",
+    "family": "house",
+    "article": "Latin house",
+    "current": "Reel 2 Real — I Like to Move It",
+    "isotopes": [
+      "Nuyorican Soul — Runaway",
+      "Kenny Dope — Bomb Drop"
+    ],
+    "artists": [
+      "Erick Morillo",
+      "Masters At Work",
+      "Kenny Dope"
+    ],
+    "artistsOnWiki": [
+      "Erick Morillo",
+      "Masters At Work"
+    ],
+    "flags": [
+      "track artist not in artist list",
+      "track artist not on Wikipedia"
+    ],
+    "candidates": [
+      {
+        "artist": "Raz",
+        "title": "Amor Puertorriqueño",
+        "where": "text"
+      },
+      {
+        "artist": "Raze",
+        "title": "Break 4 Love",
+        "where": "text"
+      },
+      {
+        "artist": "Latin Kings",
+        "title": "Quiero Saber",
+        "where": "text"
+      },
+      {
+        "artist": "Arts of Rhythm",
+        "title": "Everything's All Right",
+        "where": "text"
+      },
+      {
+        "artist": "Trinidad",
+        "title": "Philly The Blunt",
+        "where": "text"
+      },
+      {
+        "artist": "Afro-Cube",
+        "title": "Sugar Cane",
+        "where": "text"
+      },
+      {
+        "artist": "Rosabel",
+        "title": "Sul Chu Cha",
+        "where": "text"
+      },
+      {
+        "artist": "Henry Rivera",
+        "title": "Así mamacita",
+        "where": "text"
+      },
+      {
+        "artist": "Early examples include Jesse Velez",
+        "title": "Girls Out on the Floor",
+        "where": "text"
+      },
+      {
+        "artist": "Tribe",
+        "title": "Go-san-do",
+        "where": "text"
+      },
+      {
+        "artist": "R.A.W.",
+        "title": "Asuca",
+        "where": "text"
+      },
+      {
+        "artist": "Escandalo",
+        "title": "Mas Buena",
+        "where": "text"
+      },
+      {
+        "artist": "Fiasco",
+        "title": "Las Mujeres",
+        "where": "text"
+      },
+      {
+        "artist": "Albita",
+        "title": "No se parece a nada",
+        "where": "text"
+      },
+      {
+        "artist": "Among the various hits are 2 in a Room",
+        "title": "Las Mujeres",
+        "where": "text"
+      },
+      {
+        "artist": "Fun City",
+        "title": "Padentro",
+        "where": "text"
+      },
+      {
+        "artist": "Sancocho",
+        "title": "Tumba la Casa",
+        "where": "text"
+      },
+      {
+        "artist": "El General",
+        "title": "Muevelo",
+        "where": "text"
+      }
+    ]
+  },
+  {
+    "n": 110,
+    "name": "Ballroom / Vogue House",
+    "family": "house",
+    "article": null,
+    "current": "Masters At Work — The Ha Dance",
+    "isotopes": [
+      "Kevin Aviance — Cunty"
+    ],
+    "artists": [
+      "Masters At Work",
+      "MikeQ",
+      "Kevin Aviance"
+    ],
+    "artistsOnWiki": [],
+    "flags": [
+      "no article"
+    ],
+    "candidates": []
+  },
+  {
+    "n": 111,
+    "name": "Jackin' House",
+    "family": "house",
+    "article": null,
+    "current": "Green Velvet — Flash",
+    "isotopes": [
+      "Green Velvet — La La Land",
+      "Riva Starr — I Was Drunk"
+    ],
+    "artists": [
+      "Green Velvet",
+      "Riva Starr",
+      "Gene Farris"
+    ],
+    "artistsOnWiki": [],
+    "flags": [
+      "no article"
+    ],
+    "candidates": []
+  },
+  {
+    "n": 112,
+    "name": "Piano House",
+    "family": "house",
+    "article": null,
+    "current": "Livin' Joy — Dreamer",
+    "isotopes": [
+      "Alison Limerick — Where Love Lives",
+      "Felix — Don't You Want Me"
+    ],
+    "artists": [
+      "Livin' Joy",
+      "Alison Limerick",
+      "Robert Miles"
+    ],
+    "artistsOnWiki": [],
+    "flags": [
+      "no article"
+    ],
+    "candidates": []
+  },
+  {
+    "n": 5,
+    "name": "Trance",
+    "family": "trance",
+    "article": "Trance music",
+    "current": "Paul van Dyk — For an Angel",
+    "isotopes": [
+      "The Age of Love — The Age of Love (Jam & Spoon Watch Out for Stella Mix)",
+      "Binary Finary — 1998",
+      "Tiësto — Adagio for Strings"
+    ],
+    "artists": [
+      "Paul van Dyk",
+      "Tiësto",
+      "Above & Beyond"
+    ],
+    "artistsOnWiki": [
+      "Paul van Dyk",
+      "Tiësto",
+      "Above & Beyond"
+    ],
+    "flags": [],
+    "candidates": [
+      {
+        "artist": "4Voice",
+        "title": "Eternal Spirit",
+        "where": "text"
+      },
+      {
+        "artist": "L.S",
+        "title": "Hearts",
+        "where": "text"
+      },
+      {
+        "artist": "Dance 2 Trance",
+        "title": "We Came in Peace",
+        "where": "text"
+      },
+      {
+        "artist": "Spicelab",
+        "title": "Quicksand",
+        "where": "text"
+      },
+      {
+        "artist": "Metal Master",
+        "title": "Spectrum",
+        "where": "text"
+      },
+      {
+        "artist": "Resistance D",
+        "title": "Human",
+        "where": "text"
+      },
+      {
+        "artist": "Hardfloor",
+        "title": "Acperience",
+        "where": "text"
+      },
+      {
+        "artist": "Humate",
+        "title": "Love Stimulation",
+        "where": "text"
+      },
+      {
+        "artist": "Visions of Shiva",
+        "title": "Perfect Day",
+        "where": "text"
+      },
+      {
+        "artist": "KLF",
+        "title": "What Time is Love? (Pure Trance)",
+        "where": "text"
+      },
+      {
+        "artist": "Cygnus X",
+        "title": "The Orange Theme",
+        "where": "text"
+      },
+      {
+        "artist": "Brainchild",
+        "title": "Symmetry",
+        "where": "text"
+      },
+      {
+        "artist": "Vernon",
+        "title": "Wonderer",
+        "where": "text"
+      },
+      {
+        "artist": "Paul van Dyk's 1993 remix of Humate",
+        "title": "Love Stimulation",
+        "where": "text"
+      },
+      {
+        "artist": "Jones & Stephenson",
+        "title": "The First Rebirth",
+        "where": "text"
+      },
+      {
+        "artist": "Cherry Moon Trax",
+        "title": "The House of House",
+        "where": "text"
+      },
+      {
+        "artist": "Blue Alphabet",
+        "title": "Cybertrance",
+        "where": "text"
+      }
+    ]
+  },
+  {
+    "n": 6,
+    "name": "Progressive Trance",
+    "family": "trance",
+    "article": "Trance music",
+    "current": "Sasha — Xpander",
+    "isotopes": [
+      "BT — Flaming June",
+      "Way Out West — The Gift",
+      "Gouryella — Gouryella"
+    ],
+    "artists": [
+      "Above & Beyond",
+      "Ferry Corsten",
+      "Sasha"
+    ],
+    "artistsOnWiki": [
+      "Above & Beyond",
+      "Ferry Corsten"
+    ],
+    "flags": [
+      "track artist not on Wikipedia"
+    ],
+    "candidates": [
+      {
+        "artist": "4Voice",
+        "title": "Eternal Spirit",
+        "where": "text"
+      },
+      {
+        "artist": "L.S",
+        "title": "Hearts",
+        "where": "text"
+      },
+      {
+        "artist": "Dance 2 Trance",
+        "title": "We Came in Peace",
+        "where": "text"
+      },
+      {
+        "artist": "Spicelab",
+        "title": "Quicksand",
+        "where": "text"
+      },
+      {
+        "artist": "Metal Master",
+        "title": "Spectrum",
+        "where": "text"
+      },
+      {
+        "artist": "Resistance D",
+        "title": "Human",
+        "where": "text"
+      },
+      {
+        "artist": "Hardfloor",
+        "title": "Acperience",
+        "where": "text"
+      },
+      {
+        "artist": "Humate",
+        "title": "Love Stimulation",
+        "where": "text"
+      },
+      {
+        "artist": "Visions of Shiva",
+        "title": "Perfect Day",
+        "where": "text"
+      },
+      {
+        "artist": "KLF",
+        "title": "What Time is Love? (Pure Trance)",
+        "where": "text"
+      },
+      {
+        "artist": "Cygnus X",
+        "title": "The Orange Theme",
+        "where": "text"
+      },
+      {
+        "artist": "Brainchild",
+        "title": "Symmetry",
+        "where": "text"
+      },
+      {
+        "artist": "Vernon",
+        "title": "Wonderer",
+        "where": "text"
+      },
+      {
+        "artist": "Paul van Dyk's 1993 remix of Humate",
+        "title": "Love Stimulation",
+        "where": "text"
+      },
+      {
+        "artist": "Jones & Stephenson",
+        "title": "The First Rebirth",
+        "where": "text"
+      },
+      {
+        "artist": "Cherry Moon Trax",
+        "title": "The House of House",
+        "where": "text"
+      },
+      {
+        "artist": "Blue Alphabet",
+        "title": "Cybertrance",
+        "where": "text"
+      }
+    ]
+  },
+  {
+    "n": 7,
+    "name": "Vocal Trance",
+    "family": "trance",
+    "article": "Trance music",
+    "current": "Delerium — Silence (Sanctuary Mix)",
+    "isotopes": [
+      "OceanLab — Satellite",
+      "Tiësto feat. BT — Love Comes Again",
+      "Armin van Buuren — Shivers"
+    ],
+    "artists": [
+      "Tiësto",
+      "Armin van Buuren",
+      "ATB"
+    ],
+    "artistsOnWiki": [
+      "Tiësto",
+      "Armin van Buuren",
+      "ATB"
+    ],
+    "flags": [
+      "track artist not in artist list",
+      "track artist not on Wikipedia"
+    ],
+    "candidates": [
+      {
+        "artist": "4Voice",
+        "title": "Eternal Spirit",
+        "where": "text"
+      },
+      {
+        "artist": "L.S",
+        "title": "Hearts",
+        "where": "text"
+      },
+      {
+        "artist": "Dance 2 Trance",
+        "title": "We Came in Peace",
+        "where": "text"
+      },
+      {
+        "artist": "Spicelab",
+        "title": "Quicksand",
+        "where": "text"
+      },
+      {
+        "artist": "Metal Master",
+        "title": "Spectrum",
+        "where": "text"
+      },
+      {
+        "artist": "Resistance D",
+        "title": "Human",
+        "where": "text"
+      },
+      {
+        "artist": "Hardfloor",
+        "title": "Acperience",
+        "where": "text"
+      },
+      {
+        "artist": "Humate",
+        "title": "Love Stimulation",
+        "where": "text"
+      },
+      {
+        "artist": "Visions of Shiva",
+        "title": "Perfect Day",
+        "where": "text"
+      },
+      {
+        "artist": "KLF",
+        "title": "What Time is Love? (Pure Trance)",
+        "where": "text"
+      },
+      {
+        "artist": "Cygnus X",
+        "title": "The Orange Theme",
+        "where": "text"
+      },
+      {
+        "artist": "Brainchild",
+        "title": "Symmetry",
+        "where": "text"
+      },
+      {
+        "artist": "Vernon",
+        "title": "Wonderer",
+        "where": "text"
+      },
+      {
+        "artist": "Paul van Dyk's 1993 remix of Humate",
+        "title": "Love Stimulation",
+        "where": "text"
+      },
+      {
+        "artist": "Jones & Stephenson",
+        "title": "The First Rebirth",
+        "where": "text"
+      },
+      {
+        "artist": "Cherry Moon Trax",
+        "title": "The House of House",
+        "where": "text"
+      },
+      {
+        "artist": "Blue Alphabet",
+        "title": "Cybertrance",
+        "where": "text"
+      }
+    ]
+  },
+  {
+    "n": 8,
+    "name": "Uplifting Trance",
+    "family": "trance",
+    "article": "Uplifting trance",
+    "current": "Energy 52 — Café Del Mar",
+    "isotopes": [
+      "System F — Out of the Blue",
+      "Rank 1 — Airwave",
+      "Aly & Fila — We Control the Sunlight"
+    ],
+    "artists": [
+      "Aly & Fila",
+      "Bryan Kearney",
+      "Ferry Corsten"
+    ],
+    "artistsOnWiki": [
+      "Aly & Fila",
+      "Bryan Kearney",
+      "Ferry Corsten"
+    ],
+    "flags": [
+      "track artist not in artist list",
+      "track artist not on Wikipedia",
+      "article names no tracks"
+    ],
+    "candidates": []
+  },
+  {
+    "n": 14,
+    "name": "Psytrance",
+    "family": "trance",
+    "article": "Psychedelic trance",
+    "current": "Infected Mushroom — Becoming Insane",
+    "isotopes": [
+      "Astrix — Deep Jungle Walk",
+      "Vini Vici — The Tribe"
+    ],
+    "artists": [
+      "Infected Mushroom",
+      "Astrix",
+      "Vini Vici"
+    ],
+    "artistsOnWiki": [
+      "Infected Mushroom"
+    ],
+    "flags": [
+      "article names no tracks"
+    ],
+    "candidates": []
+  },
+  {
+    "n": 15,
+    "name": "Goa Trance",
+    "family": "trance",
+    "article": "Goa trance",
+    "current": "Astral Projection — Mahadeva",
+    "isotopes": [
+      "Hallucinogen — LSD",
+      "Juno Reactor — Pistolero",
+      "Man With No Name — Teleport"
+    ],
+    "artists": [
+      "Astral Projection",
+      "Hallucinogen",
+      "Juno Reactor"
+    ],
+    "artistsOnWiki": [],
+    "flags": [
+      "track artist not on Wikipedia",
+      "article names no tracks"
+    ],
+    "candidates": []
+  },
+  {
+    "n": 16,
+    "name": "Tech Trance",
+    "family": "trance",
+    "article": "Tech trance",
+    "current": "Marco V — Godd",
+    "isotopes": [
+      "Sean Tyas — Lift",
+      "Simon Patterson — Different Feeling"
+    ],
+    "artists": [
+      "Sean Tyas",
+      "Simon Patterson",
+      "Marco V"
+    ],
+    "artistsOnWiki": [
+      "Marco V"
+    ],
+    "flags": [
+      "article names no tracks"
+    ],
+    "candidates": []
+  },
+  {
+    "n": 32,
+    "name": "Hard Trance",
+    "family": "trance",
+    "article": "Hard trance",
+    "current": "Jones & Stephenson — The First Rebirth",
+    "isotopes": [
+      "Mauro Picotto — Komodo",
+      "Yves Deruyter — Rave City",
+      "Cherry Moon Trax — The House of House"
+    ],
+    "artists": [
+      "Mauro Picotto",
+      "Yoji Biomehanika",
+      "Lisa Lashes"
+    ],
+    "artistsOnWiki": [],
+    "flags": [
+      "track artist not in artist list"
+    ],
+    "candidates": [
+      {
+        "artist": "Jones & Stephenson",
+        "title": "the First Rebirth",
+        "where": "ref"
+      },
+      {
+        "artist": "Yves Deruyter",
+        "title": "Rave City",
+        "where": "ref"
+      },
+      {
+        "artist": "Cherry Moon",
+        "title": "Trax II",
+        "where": "ref"
+      },
+      {
+        "artist": "Belgica Wave Party",
+        "title": "the Wave",
+        "where": "ref"
+      },
+      {
+        "artist": "Dream Your Dream",
+        "title": "Belgium Jump",
+        "where": "ref"
+      },
+      {
+        "artist": "Phrenetic System",
+        "title": "IV",
+        "where": "ref"
+      }
+    ]
+  },
+  {
+    "n": 33,
+    "name": "Euro Trance",
+    "family": "trance",
+    "article": null,
+    "current": "ATB — 9 PM (Till I Come)",
+    "isotopes": [
+      "Kai Tracid — Your Own Reality",
+      "Alice Deejay — Better Off Alone",
+      "Cascada — Everytime We Touch"
+    ],
+    "artists": [
+      "ATB",
+      "Kai Tracid",
+      "Cascada"
+    ],
+    "artistsOnWiki": [],
+    "flags": [
+      "no article"
+    ],
+    "candidates": []
+  },
+  {
+    "n": 34,
+    "name": "Dream Trance",
+    "family": "trance",
+    "article": "Dream trance",
+    "current": "Robert Miles — Children",
+    "isotopes": [
+      "Nylon Moon — Sky Plus",
+      "Robert Miles — Fable"
+    ],
+    "artists": [
+      "Robert Miles",
+      "Nylon Moon",
+      "Alex Gold"
+    ],
+    "artistsOnWiki": [
+      "Robert Miles"
+    ],
+    "flags": [
+      "article names no tracks"
+    ],
+    "candidates": []
+  },
+  {
+    "n": 51,
+    "name": "Progressive Psy",
+    "family": "trance",
+    "article": null,
+    "current": "Liquid Soul — Global Illumination",
+    "isotopes": [
+      "Ace Ventura — Presence"
+    ],
+    "artists": [
+      "Ace Ventura",
+      "Liquid Soul",
+      "Captain Hook"
+    ],
+    "artistsOnWiki": [],
+    "flags": [
+      "no article"
+    ],
+    "candidates": []
+  },
+  {
+    "n": 52,
+    "name": "Acid Trance",
+    "family": "trance",
+    "article": "Acid trance",
+    "current": "Hardfloor — Acperience 1",
+    "isotopes": [
+      "Jam & Spoon — Stella",
+      "Union Jack — Two Full Moons and a Trout",
+      "Emmanuel Top — Acid Phase"
+    ],
+    "artists": [
+      "Hardfloor",
+      "Jam & Spoon",
+      "Union Jack"
+    ],
+    "artistsOnWiki": [
+      "Jam & Spoon"
+    ],
+    "flags": [
+      "track artist not on Wikipedia",
+      "article names no tracks"
+    ],
+    "candidates": []
+  },
+  {
+    "n": 13,
+    "name": "Drum & Bass",
+    "family": "bass",
+    "article": "Drum and bass",
+    "current": "Goldie — Inner City Life",
+    "isotopes": [
+      "Roni Size & Reprazent — Brown Paper Bag",
+      "Shimon & Andy C — Bodyrock",
+      "Chase & Status — Eastern Jam"
+    ],
+    "artists": [
+      "Goldie",
+      "Andy C",
+      "Sub Focus"
+    ],
+    "artistsOnWiki": [
+      "Goldie",
+      "Andy C",
+      "Sub Focus"
+    ],
+    "flags": [],
+    "candidates": [
+      {
+        "artist": "Winstons",
+        "title": "Amen Brother",
+        "where": "text"
+      },
+      {
+        "artist": "Hive",
+        "title": "Ultrasonic Sound",
+        "where": "text"
+      },
+      {
+        "artist": "Stock and Two Smoking Barrels. Ganja Kru",
+        "title": "Super Sharp Shooter",
+        "where": "text"
+      },
+      {
+        "artist": "Shy FX and UK Apache",
+        "title": "Original Nuttah",
+        "where": "text"
+      }
+    ]
+  },
+  {
+    "n": 31,
+    "name": "Jungle",
+    "family": "bass",
+    "article": "Jungle music",
+    "current": "Shy FX & UK Apachi — Original Nuttah",
+    "isotopes": [
+      "M-Beat feat. General Levy — Incredible",
+      "Origin Unknown — Valley of the Shadows",
+      "Rebel MC — Wickedest Sound"
+    ],
+    "artists": [
+      "Shy FX",
+      "Aphrodite",
+      "Congo Natty"
+    ],
+    "artistsOnWiki": [
+      "Shy FX",
+      "Aphrodite",
+      "Congo Natty"
+    ],
+    "flags": [],
+    "candidates": [
+      {
+        "artist": "DJ Solo",
+        "title": "Darkage",
+        "where": "text"
+      },
+      {
+        "artist": "Origin Unknown",
+        "title": "Valley of the Shadows",
+        "where": "text"
+      },
+      {
+        "artist": "Potential Bad Boy",
+        "title": "Set Me Free",
+        "where": "text"
+      },
+      {
+        "artist": "A Guy Called Gerald",
+        "title": "28 Gun Bad Boy",
+        "where": "text"
+      },
+      {
+        "artist": "DJ Ron",
+        "title": "Crackman",
+        "where": "text"
+      },
+      {
+        "artist": "Code 071",
+        "title": "A London Sumtin",
+        "where": "text"
+      },
+      {
+        "artist": "Foul Play",
+        "title": "Finest Illusion",
+        "where": "text"
+      },
+      {
+        "artist": "Family of Intelligence",
+        "title": "Learning from My Brother",
+        "where": "text"
+      },
+      {
+        "artist": "X Project",
+        "title": "Lion of Judah",
+        "where": "text"
+      },
+      {
+        "artist": "Noise Factory",
+        "title": "Be Free",
+        "where": "text"
+      },
+      {
+        "artist": "M-Beat featuring General Levy",
+        "title": "Incredible",
+        "where": "text"
+      },
+      {
+        "artist": "Leviticus would see a major release",
+        "title": "Burial",
+        "where": "text"
+      },
+      {
+        "artist": "UK Apachi",
+        "title": "Original Nuttah",
+        "where": "text"
+      },
+      {
+        "artist": "Remarc",
+        "title": "Sound Murderer / RIP",
+        "where": "text"
+      },
+      {
+        "artist": "Hitman featuring Cutty Ranks",
+        "title": "Limb by Limb",
+        "where": "text"
+      },
+      {
+        "artist": "Conquering Lion",
+        "title": "Code Red / Champion DJ",
+        "where": "text"
+      },
+      {
+        "artist": "Dead Dred",
+        "title": "Dred Bass",
+        "where": "text"
+      },
+      {
+        "artist": "DJ Zinc",
+        "title": "Super Sharp Shooter",
+        "where": "text"
+      },
+      {
+        "artist": "Shy FX",
+        "title": "This Style",
+        "where": "text"
+      },
+      {
+        "artist": "Leviticus",
+        "title": "Burial",
+        "where": "text"
+      },
+      {
+        "artist": "DJ Ron",
+        "title": "Dangerous",
+        "where": "text"
+      },
+      {
+        "artist": "Tom & Jerry",
+        "title": "Lover to Lover / Maximum Style",
+        "where": "text"
+      },
+      {
+        "artist": "Shy FX",
+        "title": "Original Nuttah",
+        "where": "text"
+      },
+      {
+        "artist": "Roni Size & DJ Die",
+        "title": "All the Crew Big Up",
+        "where": "text"
+      },
+      {
+        "artist": "M-Beat",
+        "title": "Incredible / Sweet Love",
+        "where": "text"
+      },
+      {
+        "artist": "Deep Blue",
+        "title": "The Helicopter Tune",
+        "where": "text"
+      },
+      {
+        "artist": "Dillinja",
+        "title": "Sovereign Melody / Lion Heart",
+        "where": "text"
+      },
+      {
+        "artist": "Kenny Ken",
+        "title": "Everyman",
+        "where": "text"
+      },
+      {
+        "artist": "DJ Dextrous",
+        "title": "The Victory / Lovable",
+        "where": "text"
+      },
+      {
+        "artist": "Aphrodite",
+        "title": "Calling All The People",
+        "where": "text"
+      },
+      {
+        "artist": "DJ SS",
+        "title": "The Lighter",
+        "where": "text"
+      },
+      {
+        "artist": "DJ Hype",
+        "title": "Tiger Style",
+        "where": "text"
+      }
+    ]
+  },
+  {
+    "n": 49,
+    "name": "Liquid DnB",
+    "family": "bass",
+    "article": "Liquid drum and bass",
+    "current": "High Contrast — If We Ever",
+    "isotopes": [
+      "London Elektricity — Just One Second",
+      "Netsky — Memory Lane"
+    ],
+    "artists": [
+      "High Contrast",
+      "London Elektricity",
+      "Hospital Records"
+    ],
+    "artistsOnWiki": [
+      "High Contrast",
+      "London Elektricity",
+      "Hospital Records"
+    ],
+    "flags": [
+      "article names no tracks"
+    ],
+    "candidates": []
+  },
+  {
+    "n": 50,
+    "name": "Breakbeat",
+    "family": "bass",
+    "article": "Breakbeat",
+    "current": "The Chemical Brothers — Hey Boy Hey Girl",
+    "isotopes": [
+      "Hybrid — Finished Symphony",
+      "Freestylers — Push Up",
+      "The Prodigy — Firestarter"
+    ],
+    "artists": [
+      "The Prodigy",
+      "The Chemical Brothers",
+      "Hybrid"
+    ],
+    "artistsOnWiki": [
+      "The Prodigy",
+      "The Chemical Brothers",
+      "Hybrid"
+    ],
+    "flags": [],
+    "candidates": [
+      {
+        "artist": "Winstons",
+        "title": "Amen, Brother",
+        "where": "text"
+      },
+      {
+        "artist": "Lyn Collins",
+        "title": "Think (About It)",
+        "where": "text"
+      },
+      {
+        "artist": "Mantronix",
+        "title": "King of the Beats",
+        "where": "text"
+      },
+      {
+        "artist": "James Brown",
+        "title": "Funky Drummer",
+        "where": "text"
+      }
+    ]
+  },
+  {
+    "n": 81,
+    "name": "UK Garage",
+    "family": "bass",
+    "article": "UK garage",
+    "current": "MJ Cole — Sincere",
+    "isotopes": [
+      "Sweet Female Attitude — Flowers",
+      "Shanks & Bigfoot — Sweet Like Chocolate",
+      "DJ Luck & MC Neat — A Little Bit of Luck"
+    ],
+    "artists": [
+      "MJ Cole",
+      "Todd Edwards",
+      "El-B"
+    ],
+    "artistsOnWiki": [
+      "MJ Cole",
+      "Todd Edwards",
+      "El-B"
+    ],
+    "flags": [],
+    "candidates": [
+      {
+        "artist": "Justin Cantor",
+        "title": "Feel My Love",
+        "where": "text"
+      },
+      {
+        "artist": "Tina Moore",
+        "title": "Never Gonna Let You Go",
+        "where": "text"
+      },
+      {
+        "artist": "Armand van Helden",
+        "title": "You Don't Know Me",
+        "where": "text"
+      },
+      {
+        "artist": "Artful Dodger",
+        "title": "Twentyfourseven",
+        "where": "text"
+      },
+      {
+        "artist": "Todd Edwards",
+        "title": "Shut The Door",
+        "where": "text"
+      },
+      {
+        "artist": "MPH & Oppidan",
+        "title": "Reasons",
+        "where": "text"
+      },
+      {
+        "artist": "T2 ft",
+        "title": "Heartbroken",
+        "where": "text"
+      },
+      {
+        "artist": "Hardrive",
+        "title": "Deep Inside",
+        "where": "text"
+      },
+      {
+        "artist": "Somore featuring Damon Trueitt",
+        "title": "I Refuse (What You Want)",
+        "where": "text"
+      },
+      {
+        "artist": "Neneh Cherry",
+        "title": "Buddy X",
+        "where": "text"
+      },
+      {
+        "artist": "Sweet Female Attitude",
+        "title": "Flowers",
+        "where": "text"
+      },
+      {
+        "artist": "Architechs' version of Brandy and Monica",
+        "title": "The Boy Is Mine",
+        "where": "text"
+      },
+      {
+        "artist": "Oxide & Neutrino",
+        "title": "Bound 4 Da Reload (Casualty)",
+        "where": "text"
+      },
+      {
+        "artist": "10 hits in 2000 include Artful Dodger",
+        "title": "Movin' Too Fast",
+        "where": "text"
+      },
+      {
+        "artist": "B-15 Project",
+        "title": "Girls Like Us",
+        "where": "text"
+      },
+      {
+        "artist": "DJ Luck & MC Neat",
+        "title": "Masterblaster 2000",
+        "where": "text"
+      },
+      {
+        "artist": "MJ Cole",
+        "title": "Crazy Love",
+        "where": "text"
+      },
+      {
+        "artist": "Wookie",
+        "title": "Battle",
+        "where": "text"
+      },
+      {
+        "artist": "Lonyo",
+        "title": "Summer of Love",
+        "where": "text"
+      },
+      {
+        "artist": "Oxide & Neutrino",
+        "title": "No Good 4 Me",
+        "where": "text"
+      },
+      {
+        "artist": "Horsepower Productions",
+        "title": "Gorgon Sound",
+        "where": "text"
+      },
+      {
+        "artist": "DJ Zinc",
+        "title": "138 Trek",
+        "where": "text"
+      },
+      {
+        "artist": "DJ Deekline",
+        "title": "I Don't Smoke",
+        "where": "text"
+      },
+      {
+        "artist": "Youngstar",
+        "title": "Pulse X",
+        "where": "text"
+      },
+      {
+        "artist": "T2",
+        "title": "Heartbroken",
+        "where": "text"
+      },
+      {
+        "artist": "Kele Le Roc",
+        "title": "My Love",
+        "where": "text"
+      },
+      {
+        "artist": "Bicep. Pink Pantheress",
+        "title": "Pain",
+        "where": "text"
+      },
+      {
+        "artist": "Gant",
+        "title": "Sound Bwoy Burial",
+        "where": "text"
+      }
+    ]
+  },
+  {
+    "n": 82,
+    "name": "Dubstep",
+    "family": "bass",
+    "article": "Dubstep",
+    "current": "Skream — Midnight Request Line",
+    "isotopes": [
+      "Mala — Anti-War Dub",
+      "Benga & Coki — Night",
+      "Burial — Archangel"
+    ],
+    "artists": [
+      "Skream",
+      "Benga",
+      "Mala"
+    ],
+    "artistsOnWiki": [
+      "Skream",
+      "Benga",
+      "Mala"
+    ],
+    "flags": [],
+    "candidates": [
+      {
+        "artist": "Magnetic Man reaching number 10",
+        "title": "I Need Air",
+        "where": "text"
+      },
+      {
+        "artist": "Bommer",
+        "title": "Yasuo",
+        "where": "text"
+      },
+      {
+        "artist": "Infekt",
+        "title": "Orgalorg",
+        "where": "text"
+      },
+      {
+        "artist": "Phiso",
+        "title": "Jotaro",
+        "where": "text"
+      },
+      {
+        "artist": "Mala",
+        "title": "Anti-War Dub",
+        "where": "text"
+      },
+      {
+        "artist": "Tempa",
+        "title": "Dubstep Allstars",
+        "where": "text"
+      },
+      {
+        "artist": "Shackleton",
+        "title": "Blood on My Hands",
+        "where": "text"
+      },
+      {
+        "artist": "Cassy. Ellen Allien and Apparat",
+        "title": "Metric",
+        "where": "text"
+      },
+      {
+        "artist": "Modeselektor",
+        "title": "Godspeed",
+        "where": "text"
+      },
+      {
+        "artist": "Roman Flugel's remix of Riton",
+        "title": "Hammer of Thor",
+        "where": "text"
+      },
+      {
+        "artist": "Skream",
+        "title": "Midnight Request Line",
+        "where": "text"
+      },
+      {
+        "artist": "Benga and Coki",
+        "title": "Night",
+        "where": "text"
+      },
+      {
+        "artist": "Eve used Benga",
+        "title": "E Trips",
+        "where": "text"
+      }
+    ]
+  },
+  {
+    "n": 83,
+    "name": "2-Step",
+    "family": "bass",
+    "article": null,
+    "current": "Artful Dodger ft. Craig David — Re-Rewind",
+    "isotopes": [
+      "Wookie — Battle",
+      "Craig David — Fill Me In"
+    ],
+    "artists": [
+      "Artful Dodger",
+      "Craig David",
+      "Wookie"
+    ],
+    "artistsOnWiki": [],
+    "flags": [
+      "no article"
+    ],
+    "candidates": []
+  },
+  {
+    "n": 84,
+    "name": "Neurofunk",
+    "family": "bass",
+    "article": "Neurofunk",
+    "current": "Noisia — Stigma",
+    "isotopes": [
+      "Ed Rush & Optical — Pacman",
+      "Mefjus — Sinkhole"
+    ],
+    "artists": [
+      "Noisia",
+      "Phace",
+      "Mefjus"
+    ],
+    "artistsOnWiki": [
+      "Noisia",
+      "Phace",
+      "Mefjus"
+    ],
+    "flags": [
+      "article names no tracks"
+    ],
+    "candidates": []
+  },
+  {
+    "n": 113,
+    "name": "Brostep",
+    "family": "bass",
+    "article": "Dubstep",
+    "current": "Skrillex — Scary Monsters and Nice Sprites",
+    "isotopes": [
+      "Skrillex — Bangarang",
+      "Zomboy — Nuclear (Hands Up)"
+    ],
+    "artists": [
+      "Skrillex",
+      "Excision",
+      "Zomboy"
+    ],
+    "artistsOnWiki": [
+      "Skrillex",
+      "Excision"
+    ],
+    "flags": [],
+    "candidates": [
+      {
+        "artist": "Magnetic Man reaching number 10",
+        "title": "I Need Air",
+        "where": "text"
+      },
+      {
+        "artist": "Bommer",
+        "title": "Yasuo",
+        "where": "text"
+      },
+      {
+        "artist": "Infekt",
+        "title": "Orgalorg",
+        "where": "text"
+      },
+      {
+        "artist": "Phiso",
+        "title": "Jotaro",
+        "where": "text"
+      },
+      {
+        "artist": "Mala",
+        "title": "Anti-War Dub",
+        "where": "text"
+      },
+      {
+        "artist": "Tempa",
+        "title": "Dubstep Allstars",
+        "where": "text"
+      },
+      {
+        "artist": "Shackleton",
+        "title": "Blood on My Hands",
+        "where": "text"
+      },
+      {
+        "artist": "Cassy. Ellen Allien and Apparat",
+        "title": "Metric",
+        "where": "text"
+      },
+      {
+        "artist": "Modeselektor",
+        "title": "Godspeed",
+        "where": "text"
+      },
+      {
+        "artist": "Roman Flugel's remix of Riton",
+        "title": "Hammer of Thor",
+        "where": "text"
+      },
+      {
+        "artist": "Skream",
+        "title": "Midnight Request Line",
+        "where": "text"
+      },
+      {
+        "artist": "Benga and Coki",
+        "title": "Night",
+        "where": "text"
+      },
+      {
+        "artist": "Eve used Benga",
+        "title": "E Trips",
+        "where": "text"
+      }
+    ]
+  },
+  {
+    "n": 114,
+    "name": "Future Bass",
+    "family": "bass",
+    "article": "Future bass",
+    "current": "Flume — Never Be Like You",
+    "isotopes": [
+      "Louis The Child — It's Strange",
+      "Marshmello — Alone"
+    ],
+    "artists": [
+      "Flume",
+      "Marshmello",
+      "Illenium"
+    ],
+    "artistsOnWiki": [
+      "Flume",
+      "Illenium"
+    ],
+    "flags": [],
+    "candidates": [
+      {
+        "artist": "Flume remix of Disclosure",
+        "title": "You & Me",
+        "where": "text"
+      }
+    ]
+  },
+  {
+    "n": 115,
+    "name": "Trap (EDM)",
+    "family": "bass",
+    "article": "EDM trap music",
+    "current": "RL Grime — Core",
+    "isotopes": [
+      "Baauer — Harlem Shake",
+      "TNGHT — Higher Ground"
+    ],
+    "artists": [
+      "Flosstradamus",
+      "RL Grime",
+      "Baauer"
+    ],
+    "artistsOnWiki": [
+      "Flosstradamus",
+      "RL Grime",
+      "Baauer"
+    ],
+    "flags": [],
+    "candidates": [
+      {
+        "artist": "Audial",
+        "title": "Arabian Riches",
+        "where": "text"
+      },
+      {
+        "artist": "EDM trap producer Baauer",
+        "title": "Harlem Shake",
+        "where": "text"
+      }
+    ]
+  },
+  {
+    "n": 116,
+    "name": "Bassline",
+    "family": "bass",
+    "article": "Bassline (music genre)",
+    "current": "T2 ft. Jodie Aysha — Heartbroken",
+    "isotopes": [
+      "DJ Q ft. MC Bonez — You Wot!"
+    ],
+    "artists": [
+      "T2",
+      "DJ Q",
+      "H & Claire"
+    ],
+    "artistsOnWiki": [
+      "T2",
+      "DJ Q"
+    ],
+    "flags": [
+      "track artist not on Wikipedia"
+    ],
+    "candidates": [
+      {
+        "artist": "Leeds producer T2",
+        "title": "Heartbroken",
+        "where": "text"
+      },
+      {
+        "artist": "Denon Reed",
+        "title": "Let Him Go",
+        "where": "text"
+      }
+    ]
+  },
+  {
+    "n": 9,
+    "name": "Hardstyle",
+    "family": "hard",
+    "article": "Hardstyle",
+    "current": "Headhunterz — Dragonborn",
+    "isotopes": [
+      "Showtek — FTS",
+      "Coone — Global Dedication",
+      "Brennan Heart — Imaginary"
+    ],
+    "artists": [
+      "Headhunterz",
+      "Brennan Heart",
+      "Coone"
+    ],
+    "artistsOnWiki": [],
+    "flags": [
+      "track artist not on Wikipedia"
+    ],
+    "candidates": [
+      {
+        "artist": "Yoji Biomehanika",
+        "title": "Ding A Ling (Dj Scot Project Remix)",
+        "where": "ref"
+      }
+    ]
+  },
+  {
+    "n": 17,
+    "name": "Rawstyle",
+    "family": "hard",
+    "article": "Hardstyle",
+    "current": "Radical Redemption — Brutal 4.0",
+    "isotopes": [
+      "Ran-D — Zombie",
+      "Crypsis — Break Ya Neck"
+    ],
+    "artists": [
+      "Radical Redemption",
+      "Crypsis",
+      "Warface"
+    ],
+    "artistsOnWiki": [],
+    "flags": [
+      "track artist not on Wikipedia"
+    ],
+    "candidates": [
+      {
+        "artist": "Yoji Biomehanika",
+        "title": "Ding A Ling (Dj Scot Project Remix)",
+        "where": "ref"
+      }
+    ]
+  },
+  {
+    "n": 35,
+    "name": "Gabber",
+    "family": "hard",
+    "article": "Gabber",
+    "current": "Rotterdam Terror Corps — Gabberen",
+    "isotopes": [
+      "Party Animals — Have You Ever Been Mellow",
+      "DJ Chosen Few — Chosen Anthem",
+      "Euromasters — Alles Naar De Klote"
+    ],
+    "artists": [
+      "Angerfist",
+      "DJ Promo",
+      "Rotterdam Terror Corps"
+    ],
+    "artistsOnWiki": [
+      "Angerfist",
+      "Rotterdam Terror Corps"
+    ],
+    "flags": [],
+    "candidates": [
+      {
+        "artist": "DJ Chosen Few",
+        "title": "Chosen Anthem (Against Racism)",
+        "where": "text"
+      },
+      {
+        "artist": "Party Animals featuring MC Rob Gee",
+        "title": "Die Nazi Scum",
+        "where": "text"
+      },
+      {
+        "artist": "United Hardcore",
+        "title": "Time to Make a Stand",
+        "where": "text"
+      },
+      {
+        "artist": "Hellcore",
+        "title": "Fuck the Nazism",
+        "where": "text"
+      },
+      {
+        "artist": "Billboard magazine called it the country",
+        "title": "first homegrown youth culture",
+        "where": "text"
+      },
+      {
+        "artist": "Gabber Piet",
+        "title": "Hakke & Zage",
+        "where": "text"
+      }
+    ]
+  },
+  {
+    "n": 53,
+    "name": "Happy Hardcore",
+    "family": "hard",
+    "article": "Happy hardcore",
+    "current": "Hixxy & Sharkey — Toytown",
+    "isotopes": [
+      "Force & Styles — Heart of Gold",
+      "DJ Seduction — Hardcore Heaven"
+    ],
+    "artists": [
+      "Hixxy",
+      "Sy",
+      "Scott Brown"
+    ],
+    "artistsOnWiki": [
+      "Hixxy",
+      "Sy"
+    ],
+    "flags": [
+      "article names no tracks"
+    ],
+    "candidates": []
+  },
+  {
+    "n": 85,
+    "name": "UK Hardcore",
+    "family": "hard",
+    "article": "Happy hardcore",
+    "current": "Darren Styles — Save Me",
+    "isotopes": [
+      "Gammer — The Drop",
+      "Breeze & Styles — You're Shining"
+    ],
+    "artists": [
+      "Darren Styles",
+      "Gammer",
+      "Re-Con"
+    ],
+    "artistsOnWiki": [],
+    "flags": [
+      "track artist not on Wikipedia",
+      "article names no tracks"
+    ],
+    "candidates": []
+  },
+  {
+    "n": 117,
+    "name": "Frenchcore",
+    "family": "hard",
+    "article": "Frenchcore",
+    "current": "Dr. Peacock & Sefa — Incoming",
+    "isotopes": [
+      "Dr. Peacock — Trip to Iran"
+    ],
+    "artists": [
+      "Dr. Peacock",
+      "Sefa",
+      "Billx"
+    ],
+    "artistsOnWiki": [
+      "Dr. Peacock",
+      "Sefa"
+    ],
+    "flags": [
+      "article names no tracks"
+    ],
+    "candidates": []
+  },
+  {
+    "n": 2,
+    "name": "Techno",
+    "family": "techno",
+    "article": "Techno",
+    "current": "Joey Beltram — Energy Flash",
+    "isotopes": [
+      "Jeff Mills — The Bells",
+      "Laurent Garnier — Crispy Bacon",
+      "Dave Clarke — Red 2"
+    ],
+    "artists": [
+      "Juan Atkins",
+      "Derrick May",
+      "Kevin Saunderson"
+    ],
+    "artistsOnWiki": [
+      "Juan Atkins",
+      "Derrick May",
+      "Kevin Saunderson"
+    ],
+    "flags": [
+      "track artist not in artist list"
+    ],
+    "candidates": [
+      {
+        "artist": "Japanese press",
+        "title": "technopop",
+        "where": "text"
+      },
+      {
+        "artist": "A Number of Names",
+        "title": "Sharevari",
+        "where": "text"
+      },
+      {
+        "artist": "Kraftwerk. YMO",
+        "title": "Technopolis",
+        "where": "text"
+      },
+      {
+        "artist": "Afrika Bambaataa",
+        "title": "Planet Rock",
+        "where": "text"
+      },
+      {
+        "artist": "Model 500",
+        "title": "No UFO's,",
+        "where": "text"
+      },
+      {
+        "artist": "May",
+        "title": "Strings of Life",
+        "where": "text"
+      },
+      {
+        "artist": "Derrick May",
+        "title": "Strings of Life",
+        "where": "text"
+      },
+      {
+        "artist": "A&R scout for Virgin",
+        "title": "10 Records",
+        "where": "text"
+      },
+      {
+        "artist": "Kraftwerk",
+        "title": "man machine",
+        "where": "text"
+      },
+      {
+        "artist": "Dave Angel",
+        "title": "Seas of Tranquility",
+        "where": "text"
+      },
+      {
+        "artist": "Ikue Sakakibara",
+        "title": "Robot",
+        "where": "text"
+      },
+      {
+        "artist": "Moroder",
+        "title": "From Here to Eternity",
+        "where": "text"
+      }
+    ]
+  },
+  {
+    "n": 10,
+    "name": "Detroit Techno",
+    "family": "techno",
+    "article": "Detroit techno",
+    "current": "Rhythim Is Rhythim — Strings of Life",
+    "isotopes": [
+      "Model 500 — No UFO's",
+      "Inner City — Good Life",
+      "Galaxy 2 Galaxy — Hi-Tech Jazz"
+    ],
+    "artists": [
+      "Carl Craig",
+      "Jeff Mills",
+      "Underground Resistance"
+    ],
+    "artistsOnWiki": [
+      "Carl Craig",
+      "Jeff Mills",
+      "Underground Resistance"
+    ],
+    "flags": [
+      "track artist not in artist list",
+      "track artist not on Wikipedia"
+    ],
+    "candidates": [
+      {
+        "artist": "A&R scout for Virgin",
+        "title": "10 Records",
+        "where": "text"
+      },
+      {
+        "artist": "Universal Techno Pt.1",
+        "title": "Juan Atkins & Derrick May",
+        "where": "ref"
+      },
+      {
+        "artist": "Various",
+        "title": "Techno! The New Dance Sound of Detroit",
+        "where": "ref"
+      }
+    ]
+  },
+  {
+    "n": 18,
+    "name": "Minimal Techno",
+    "family": "techno",
+    "article": "Minimal techno",
+    "current": "Plastikman — Spastik",
+    "isotopes": [
+      "Ricardo Villalobos — Easy Lee",
+      "Robert Hood — The Pace",
+      "Daniel Bell — Losing Control"
+    ],
+    "artists": [
+      "Ricardo Villalobos",
+      "Richie Hawtin",
+      "Pan-Pot"
+    ],
+    "artistsOnWiki": [
+      "Richie Hawtin"
+    ],
+    "flags": [
+      "track artist not in artist list",
+      "track artist not on Wikipedia",
+      "article names no tracks"
+    ],
+    "candidates": []
+  },
+  {
+    "n": 36,
+    "name": "Dub Techno",
+    "family": "techno",
+    "article": "Dub techno",
+    "current": "Basic Channel — Quadrant Dub I",
+    "isotopes": [
+      "Rhythm & Sound — Mango Drive",
+      "Monolake — Cyan"
+    ],
+    "artists": [
+      "Basic Channel",
+      "Deepchord",
+      "Yagya"
+    ],
+    "artistsOnWiki": [
+      "Basic Channel",
+      "Deepchord",
+      "Yagya"
+    ],
+    "flags": [
+      "article names no tracks"
+    ],
+    "candidates": []
+  },
+  {
+    "n": 54,
+    "name": "Melodic Techno",
+    "family": "techno",
+    "article": "Melodic techno",
+    "current": "Stephan Bodzin — Singularity",
+    "isotopes": [
+      "Tale Of Us & Vaal — Monument",
+      "Mind Against — Atlant"
+    ],
+    "artists": [
+      "Tale Of Us",
+      "Mind Against",
+      "Stephan Bodzin"
+    ],
+    "artistsOnWiki": [
+      "Tale Of Us",
+      "Mind Against",
+      "Stephan Bodzin"
+    ],
+    "flags": [
+      "article names no tracks"
+    ],
+    "candidates": []
+  },
+  {
+    "n": 86,
+    "name": "Industrial Techno",
+    "family": "techno",
+    "article": "Industrial techno",
+    "current": "Perc — Look What Your Love Has Done to Me",
+    "isotopes": [
+      "Surgeon — Floorshow"
+    ],
+    "artists": [
+      "Surgeon",
+      "Perc",
+      "Ansome"
+    ],
+    "artistsOnWiki": [
+      "Surgeon",
+      "Perc",
+      "Ansome"
+    ],
+    "flags": [
+      "article names no tracks"
+    ],
+    "candidates": []
+  },
+  {
+    "n": 118,
+    "name": "Hard Techno",
+    "family": "techno",
+    "article": null,
+    "current": "I Hate Models — Daydream",
+    "isotopes": [
+      "Charlotte de Witte — Doppler",
+      "Sara Landry — Legacy"
+    ],
+    "artists": [
+      "I Hate Models",
+      "Sara Landry",
+      "999999999"
+    ],
+    "artistsOnWiki": [],
+    "flags": [
+      "no article"
+    ],
+    "candidates": []
+  },
+  {
+    "n": 57,
+    "name": "Ambient",
+    "family": "ambient",
+    "article": "Ambient music",
+    "current": "Brian Eno — An Ending (Ascent)",
+    "isotopes": [
+      "Brian Eno — 1/1",
+      "Global Communication — 14:31"
+    ],
+    "artists": [
+      "Brian Eno",
+      "Stars of the Lid",
+      "Aphex Twin"
+    ],
+    "artistsOnWiki": [
+      "Brian Eno",
+      "Stars of the Lid",
+      "Aphex Twin"
+    ],
+    "flags": [
+      "article names no tracks"
+    ],
+    "candidates": []
+  },
+  {
+    "n": 58,
+    "name": "Downtempo",
+    "family": "ambient",
+    "article": "Downtempo",
+    "current": "Bonobo — Kiara",
+    "isotopes": [
+      "Nightmares on Wax — You Wish",
+      "Thievery Corporation — Lebanese Blonde"
+    ],
+    "artists": [
+      "Bonobo",
+      "Tycho",
+      "Nightmares on Wax"
+    ],
+    "artistsOnWiki": [
+      "Bonobo",
+      "Nightmares on Wax"
+    ],
+    "flags": [
+      "article names no tracks"
+    ],
+    "candidates": []
+  },
+  {
+    "n": 59,
+    "name": "Trip-Hop",
+    "family": "ambient",
+    "article": "Trip hop",
+    "current": "Massive Attack — Teardrop",
+    "isotopes": [
+      "Portishead — Glory Box",
+      "Massive Attack — Unfinished Sympathy",
+      "Tricky — Hell Is Round the Corner"
+    ],
+    "artists": [
+      "Massive Attack",
+      "Portishead",
+      "Tricky"
+    ],
+    "artistsOnWiki": [
+      "Massive Attack",
+      "Portishead",
+      "Tricky"
+    ],
+    "flags": [],
+    "candidates": [
+      {
+        "artist": "1983",
+        "title": "proto-trip-hop",
+        "where": "text"
+      },
+      {
+        "artist": "Public Enemy",
+        "title": "Black Steel in the Hour of Chaos",
+        "where": "text"
+      }
+    ]
+  },
+  {
+    "n": 60,
+    "name": "Chillout",
+    "family": "ambient",
+    "article": "Chill-out music",
+    "current": "Zero 7 — Destiny",
+    "isotopes": [
+      "Moby — Porcelain",
+      "Groove Armada — At the River",
+      "Hooverphonic — Mad About You"
+    ],
+    "artists": [
+      "Café del Mar",
+      "Zero 7",
+      "Hooverphonic"
+    ],
+    "artistsOnWiki": [
+      "Café del Mar"
+    ],
+    "flags": [
+      "track artist not on Wikipedia"
+    ],
+    "candidates": [
+      {
+        "artist": "Spotify",
+        "title": "Chill Hits",
+        "where": "text"
+      }
+    ]
+  },
+  {
+    "n": 61,
+    "name": "IDM",
+    "family": "ambient",
+    "article": "Intelligent dance music",
+    "current": "Aphex Twin — Xtal",
+    "isotopes": [
+      "Boards of Canada — Roygbiv",
+      "Autechre — Nine"
+    ],
+    "artists": [
+      "Aphex Twin",
+      "Autechre",
+      "Boards of Canada"
+    ],
+    "artistsOnWiki": [
+      "Aphex Twin",
+      "Autechre",
+      "Boards of Canada"
+    ],
+    "flags": [
+      "article names no tracks"
+    ],
+    "candidates": []
+  },
+  {
+    "n": 62,
+    "name": "Ambient House",
+    "family": "ambient",
+    "article": "Ambient house",
+    "current": "The Orb — Little Fluffy Clouds",
+    "isotopes": [
+      "808 State — Pacific State",
+      "The Grid — Floatation",
+      "Global Communication — Ob-Selon Mi-Nos"
+    ],
+    "artists": [
+      "The Orb",
+      "The KLF",
+      "Global Communication"
+    ],
+    "artistsOnWiki": [
+      "The Orb",
+      "The KLF",
+      "Global Communication"
+    ],
+    "flags": [],
+    "candidates": [
+      {
+        "artist": "808 State",
+        "title": "Pacific State",
+        "where": "text"
+      },
+      {
+        "artist": "Grid",
+        "title": "Flotation",
+        "where": "text"
+      },
+      {
+        "artist": "Quadrophenia",
+        "title": "Paradise",
+        "where": "text"
+      },
+      {
+        "artist": "Audio One",
+        "title": "Journeys Into Rhythm",
+        "where": "text"
+      },
+      {
+        "artist": "Innocence",
+        "title": "Natural Thing",
+        "where": "text"
+      },
+      {
+        "artist": "KLF",
+        "title": "off-the-cuff",
+        "where": "text"
+      },
+      {
+        "artist": "Minnie Riperton",
+        "title": "Lovin' You",
+        "where": "text"
+      },
+      {
+        "artist": "KLF",
+        "title": "Chill Out.. (Ambient house) LP",
+        "where": "ref"
+      }
+    ]
+  },
+  {
+    "n": 63,
+    "name": "Ambient Techno",
+    "family": "ambient",
+    "article": "Ambient techno",
+    "current": "Biosphere — Novelty Waves",
+    "isotopes": [
+      "The Black Dog — Raxmus",
+      "Speedy J — Pepper"
+    ],
+    "artists": [
+      "Biosphere",
+      "GAS",
+      "The Black Dog"
+    ],
+    "artistsOnWiki": [
+      "Biosphere",
+      "GAS",
+      "The Black Dog"
+    ],
+    "flags": [
+      "article names no tracks"
+    ],
+    "candidates": []
+  },
+  {
+    "n": 64,
+    "name": "Downtempo House",
+    "family": "ambient",
+    "article": "Downtempo",
+    "current": "Kiasmos — Looped",
+    "isotopes": [
+      "Christian Löffler — Haul"
+    ],
+    "artists": [
+      "Kiasmos",
+      "Rodriguez Jr.",
+      "Christian Löffler"
+    ],
+    "artistsOnWiki": [],
+    "flags": [
+      "track artist not on Wikipedia",
+      "article names no tracks"
+    ],
+    "candidates": []
+  },
+  {
+    "n": 65,
+    "name": "Balearic",
+    "family": "ambient",
+    "article": "Balearic beat",
+    "current": "José Padilla — Agua",
+    "isotopes": [
+      "A Man Called Adam — Estelle",
+      "Sueño Latino — Sueño Latino"
+    ],
+    "artists": [
+      "José Padilla",
+      "Alfredo",
+      "A Man Called Adam"
+    ],
+    "artistsOnWiki": [
+      "José Padilla",
+      "Alfredo"
+    ],
+    "flags": [
+      "article names no tracks"
+    ],
+    "candidates": []
+  },
+  {
+    "n": 66,
+    "name": "Electronic Dub",
+    "family": "ambient",
+    "article": null,
+    "current": "Kruder & Dorfmeister — High Noon",
+    "isotopes": [
+      "Dreadzone — Little Britain",
+      "Thievery Corporation — The Richest Man in Babylon"
+    ],
+    "artists": [
+      "Kruder & Dorfmeister",
+      "Thievery Corporation",
+      "Mad Professor"
+    ],
+    "artistsOnWiki": [],
+    "flags": [
+      "no article"
+    ],
+    "candidates": []
+  },
+  {
+    "n": 67,
+    "name": "Psybient",
+    "family": "ambient",
+    "article": "Psychedelic trance",
+    "current": "Shpongle — Dorset Perception",
+    "isotopes": [
+      "Ott — The Queen of All Everything",
+      "Carbon Based Lifeforms — Photosynthesis"
+    ],
+    "artists": [
+      "Shpongle",
+      "Ott",
+      "Carbon Based Lifeforms"
+    ],
+    "artistsOnWiki": [
+      "Ott"
+    ],
+    "flags": [
+      "track artist not on Wikipedia",
+      "article names no tracks"
+    ],
+    "candidates": []
+  },
+  {
+    "n": 68,
+    "name": "Nu Jazz",
+    "family": "ambient",
+    "article": "Nu jazz",
+    "current": "St Germain — Rose Rouge",
+    "isotopes": [
+      "The Cinematic Orchestra — All That You Give",
+      "Jazzanova — Fedime's Flight"
+    ],
+    "artists": [
+      "St Germain",
+      "Jazzanova",
+      "The Cinematic Orchestra"
+    ],
+    "artistsOnWiki": [
+      "St Germain",
+      "Jazzanova",
+      "The Cinematic Orchestra"
+    ],
+    "flags": [
+      "article names no tracks"
+    ],
+    "candidates": []
+  },
+  {
+    "n": 69,
+    "name": "French Downtempo",
+    "family": "ambient",
+    "article": null,
+    "current": "Air — La Femme d'Argent",
+    "isotopes": [
+      "Télépopmusik — Breathe",
+      "Air — Playground Love"
+    ],
+    "artists": [
+      "Air",
+      "Télépopmusik",
+      "Saint-Germain"
+    ],
+    "artistsOnWiki": [],
+    "flags": [
+      "no article"
+    ],
+    "candidates": []
+  },
+  {
+    "n": 70,
+    "name": "Ambient Electronica",
+    "family": "ambient",
+    "article": null,
+    "current": "Tycho — Awake",
+    "isotopes": [
+      "Boards of Canada — Dayvan Cowboy",
+      "Helios — Halving the Compass"
+    ],
+    "artists": [
+      "Tycho",
+      "Boards of Canada",
+      "Helios"
+    ],
+    "artistsOnWiki": [],
+    "flags": [
+      "no article"
+    ],
+    "candidates": []
+  },
+  {
+    "n": 71,
+    "name": "Neoclassical Electronic",
+    "family": "ambient",
+    "article": null,
+    "current": "Nils Frahm — Says",
+    "isotopes": [
+      "Ólafur Arnalds — Near Light",
+      "Jon Hopkins — Open Eye Signal"
+    ],
+    "artists": [
+      "Nils Frahm",
+      "Ólafur Arnalds",
+      "Jon Hopkins"
+    ],
+    "artistsOnWiki": [],
+    "flags": [
+      "no article"
+    ],
+    "candidates": []
+  },
+  {
+    "n": 89,
+    "name": "Amapiano",
+    "family": "global",
+    "article": "Amapiano",
+    "current": "Uncle Waffles — Tanzania",
+    "isotopes": [
+      "Focalistic — Ke Star",
+      "Tyla — Water"
+    ],
+    "artists": [
+      "Kabza De Small",
+      "DJ Maphorisa",
+      "Uncle Waffles"
+    ],
+    "artistsOnWiki": [
+      "Kabza De Small",
+      "DJ Maphorisa"
+    ],
+    "flags": [
+      "track artist not on Wikipedia"
+    ],
+    "candidates": [
+      {
+        "artist": "ZanTen",
+        "title": "Ize (Bique Mix)",
+        "where": "text"
+      },
+      {
+        "artist": "FOI and Jay Music",
+        "title": "Bique (Deep Groove)",
+        "where": "text"
+      }
+    ]
+  },
+  {
+    "n": 90,
+    "name": "Gqom",
+    "family": "global",
+    "article": "Gqom",
+    "current": "Babes Wodumo ft. Mampintsha — Wololo",
+    "isotopes": [
+      "Distruction Boyz — Omunye",
+      "DJ Lag — Ice Drop"
+    ],
+    "artists": [
+      "DJ Lag",
+      "Babes Wodumo",
+      "Distruction Boyz"
+    ],
+    "artistsOnWiki": [
+      "DJ Lag",
+      "Babes Wodumo",
+      "Distruction Boyz"
+    ],
+    "flags": [
+      "track artist not on Wikipedia"
+    ],
+    "candidates": [
+      {
+        "artist": "DJ Yk Mule",
+        "title": "Zazu Beat",
+        "where": "text"
+      },
+      {
+        "artist": "CKay",
+        "title": "Container",
+        "where": "text"
+      },
+      {
+        "artist": "Die Antwoord and rapper Slagysta",
+        "title": "Baita Jou Sabela",
+        "where": "text"
+      },
+      {
+        "artist": "Boyz' Welcome To Durban EP and Dominowe",
+        "title": "Darbuka Tribe (Core Tribe)",
+        "where": "text"
+      },
+      {
+        "artist": "Shimza and Moonchild Sanelly",
+        "title": "Makhe",
+        "where": "text"
+      },
+      {
+        "artist": "Okmalumkoolkat",
+        "title": "Gqi",
+        "where": "text"
+      },
+      {
+        "artist": "JLZ's GQOM IDEIAS EP and State OFFF",
+        "title": "I Need Some Baile-GQOM",
+        "where": "text"
+      }
+    ]
+  },
+  {
+    "n": 91,
+    "name": "Kwaito",
+    "family": "global",
+    "article": "Kwaito",
+    "current": "Mandoza — Nkalakatha",
+    "isotopes": [
+      "Boom Shaka — It's About Time",
+      "Trompies — Sigiya Ngengoma"
+    ],
+    "artists": [
+      "Boom Shaka",
+      "Mandoza",
+      "Trompies"
+    ],
+    "artistsOnWiki": [
+      "Boom Shaka",
+      "Mandoza",
+      "Trompies"
+    ],
+    "flags": [],
+    "candidates": [
+      {
+        "artist": "South Africa",
+        "title": "wild child",
+        "where": "text"
+      }
+    ]
+  },
+  {
+    "n": 92,
+    "name": "Footwork / Juke",
+    "family": "global",
+    "article": "Footwork (genre)",
+    "current": "DJ Rashad — Let It Go",
+    "isotopes": [
+      "DJ Rashad — Feelin",
+      "RP Boo — Baby Come On"
+    ],
+    "artists": [
+      "DJ Rashad",
+      "RP Boo",
+      "DJ Spinn"
+    ],
+    "artistsOnWiki": [
+      "DJ Rashad",
+      "RP Boo",
+      "DJ Spinn"
+    ],
+    "flags": [],
+    "candidates": [
+      {
+        "artist": "Addison Groove",
+        "title": "Footcrab",
+        "where": "text"
+      },
+      {
+        "artist": "Chicago was WaxMaster",
+        "title": "Foot work",
+        "where": "text"
+      },
+      {
+        "artist": "Dude 'n Nem",
+        "title": "Watch My Feet",
+        "where": "text"
+      }
+    ]
+  },
+  {
+    "n": 93,
+    "name": "Jersey Club",
+    "family": "global",
+    "article": "Jersey club",
+    "current": "DJ Sliink — Vibrate",
+    "isotopes": [
+      "Cookiee Kawaii — Vibe (If I Back It Up)",
+      "Tapp — Dikkontrol"
+    ],
+    "artists": [
+      "DJ Tameil",
+      "DJ Sliink",
+      "UNIIQU3"
+    ],
+    "artistsOnWiki": [
+      "DJ Tameil",
+      "DJ Sliink",
+      "UNIIQU3"
+    ],
+    "flags": [],
+    "candidates": [
+      {
+        "artist": "Tapp",
+        "title": "Dikkontrol.",
+        "where": "text"
+      },
+      {
+        "artist": "Baltimore house records such as Tapp",
+        "title": "Shake Dat Ass",
+        "where": "text"
+      },
+      {
+        "artist": "DJ Fresh",
+        "title": "Get Silly,",
+        "where": "text"
+      },
+      {
+        "artist": "DJ Fresh",
+        "title": "Go Silly",
+        "where": "text"
+      },
+      {
+        "artist": "Jayhood",
+        "title": "Patty Cake",
+        "where": "text"
+      },
+      {
+        "artist": "DJ Tone Dafire Marshal",
+        "title": "She Gotta Donkey",
+        "where": "text"
+      },
+      {
+        "artist": "For DJ Khaled",
+        "title": "To the Max",
+        "where": "text"
+      },
+      {
+        "artist": "Unicorn151 aka Killa Kherk Cobain",
+        "title": "It's Time",
+        "where": "text"
+      },
+      {
+        "artist": "Jersey club artist Cookiee Kawaii",
+        "title": "Vibe",
+        "where": "text"
+      },
+      {
+        "artist": "DJ SLIINK X DJ DRU",
+        "title": "ARCH IN YA BACK",
+        "where": "ref"
+      }
+    ]
+  },
+  {
+    "n": 94,
+    "name": "Baile Funk",
+    "family": "global",
+    "article": "Funk carioca",
+    "current": "MC Fioti — Bum Bum Tam Tam",
+    "isotopes": [
+      "Tati Quebra Barraco — Boladona",
+      "Kevinho — Olha a Explosão"
+    ],
+    "artists": [
+      "DJ Marlboro",
+      "Tati Quebra Barraco",
+      "MC Fioti"
+    ],
+    "artistsOnWiki": [
+      "DJ Marlboro"
+    ],
+    "flags": [
+      "track artist not on Wikipedia"
+    ],
+    "candidates": [
+      {
+        "artist": "Afrika Bambaataa",
+        "title": "Planet Rock",
+        "where": "text"
+      },
+      {
+        "artist": "Pabllo Vittar",
+        "title": "Parabéns",
+        "where": "text"
+      },
+      {
+        "artist": "Kevinho",
+        "title": "É Rave Que Fala Né",
+        "where": "text"
+      },
+      {
+        "artist": "De Falla",
+        "title": "Popozuda Rock n' Roll",
+        "where": "text"
+      },
+      {
+        "artist": "DJ Battery Brain",
+        "title": "808 volt",
+        "where": "text"
+      },
+      {
+        "artist": "Hassan",
+        "title": "Pump Up the Party",
+        "where": "text"
+      },
+      {
+        "artist": "Various",
+        "title": "Favela Chic: Funk Favela",
+        "where": "ref"
+      },
+      {
+        "artist": "Tejo, Black Alien & Speed",
+        "title": "Follow Me Follow Me (Quem Que Caguetou?)",
+        "where": "ref"
+      },
+      {
+        "artist": "M.I.A.",
+        "title": "Piracy Funds Terrorism Volume 1",
+        "where": "ref"
+      }
+    ]
+  },
+  {
+    "n": 95,
+    "name": "Kuduro",
+    "family": "global",
+    "article": "Kuduro",
+    "current": "Buraka Som Sistema — Kalemba (Wegue Wegue)",
+    "isotopes": [
+      "Buraka Som Sistema — Sound of Kuduro"
+    ],
+    "artists": [
+      "Buraka Som Sistema",
+      "Os Lambas",
+      "DJ Znobia"
+    ],
+    "artistsOnWiki": [
+      "Buraka Som Sistema",
+      "DJ Znobia"
+    ],
+    "flags": [
+      "article names no tracks"
+    ],
+    "candidates": []
+  },
+  {
+    "n": 96,
+    "name": "Moombahton",
+    "family": "global",
+    "article": "Moombahton",
+    "current": "Dillon Francis & Diplo — Que Que",
+    "isotopes": [
+      "Silvio Ecomo & Chuckie — Moombah!",
+      "Major Lazer & DJ Snake — Lean On"
+    ],
+    "artists": [
+      "Dave Nada",
+      "Diplo",
+      "Major Lazer"
+    ],
+    "artistsOnWiki": [
+      "Dave Nada"
+    ],
+    "flags": [],
+    "candidates": [
+      {
+        "artist": "Silvio Ecomo and Chuckie",
+        "title": "Moombah!",
+        "where": "text"
+      }
+    ]
+  },
+  {
+    "n": 97,
+    "name": "UK Funky",
+    "family": "global",
+    "article": "UK funky",
+    "current": "Kyla — Do You Mind (Crazy Cousinz Remix)",
+    "isotopes": [
+      "Fuzzy Logik ft. Egypt — In the Morning",
+      "Donae'o — Party Hard",
+      "Funky Dee — Are You Gonna Bang Doe"
+    ],
+    "artists": [
+      "Crazy Cousinz",
+      "Roska",
+      "Donae'o"
+    ],
+    "artistsOnWiki": [
+      "Crazy Cousinz",
+      "Roska",
+      "Donae'o"
+    ],
+    "flags": [
+      "track artist not in artist list",
+      "track artist not on Wikipedia"
+    ],
+    "candidates": [
+      {
+        "artist": "Fish Go Deep",
+        "title": "The Cure and the Cause",
+        "where": "text"
+      },
+      {
+        "artist": "Fuzzy Logik featuring Egypt",
+        "title": "In The Morning",
+        "where": "text"
+      },
+      {
+        "artist": "Funky Dee",
+        "title": "Are You Gonna Bang Doe?",
+        "where": "text"
+      },
+      {
+        "artist": "Funky Dee Are You Gonna Bang Doe",
+        "title": "Westwood",
+        "where": "ref"
+      }
+    ]
+  },
+  {
+    "n": 98,
+    "name": "Glitch",
+    "family": "global",
+    "article": "Glitch (music)",
+    "current": "Autechre — Gantz Graf",
+    "isotopes": [
+      "Oval — Do While",
+      "Alva Noto & Ryuichi Sakamoto — Vrioon"
+    ],
+    "artists": [
+      "Autechre",
+      "Oval",
+      "Alva Noto"
+    ],
+    "artistsOnWiki": [
+      "Autechre",
+      "Oval"
+    ],
+    "flags": [],
+    "candidates": [
+      {
+        "artist": "Autechre",
+        "title": "Glitch",
+        "where": "text"
+      },
+      {
+        "artist": "Yasunao Tone",
+        "title": "wounded",
+        "where": "text"
+      },
+      {
+        "artist": "AllMusic as the glitch genre",
+        "title": "official genesis",
+        "where": "text"
+      }
+    ]
+  },
+  {
+    "n": 99,
+    "name": "Breakcore",
+    "family": "global",
+    "article": "Breakcore",
+    "current": "Venetian Snares — Hajnal",
+    "isotopes": [
+      "Machine Girl — Ghost",
+      "Venetian Snares — Szamár Madár"
+    ],
+    "artists": [
+      "Venetian Snares",
+      "Aaron Spectre",
+      "Machine Girl"
+    ],
+    "artistsOnWiki": [
+      "Venetian Snares",
+      "Aaron Spectre",
+      "Machine Girl"
+    ],
+    "flags": [
+      "article names no tracks"
+    ],
+    "candidates": []
+  },
+  {
+    "n": 100,
+    "name": "Grime",
+    "family": "global",
+    "article": "Grime music",
+    "current": "Wiley — Eskimo",
+    "isotopes": [
+      "Dizzee Rascal — I Luv U",
+      "Skepta — That's Not Me",
+      "Lethal Bizzle — Pow!"
+    ],
+    "artists": [
+      "Wiley",
+      "Dizzee Rascal",
+      "Skepta"
+    ],
+    "artistsOnWiki": [
+      "Wiley",
+      "Dizzee Rascal",
+      "Skepta"
+    ],
+    "flags": [],
+    "candidates": [
+      {
+        "artist": "Wiley",
+        "title": "Igloo",
+        "where": "text"
+      },
+      {
+        "artist": "Danny Weed",
+        "title": "Creeper",
+        "where": "text"
+      },
+      {
+        "artist": "Sticky featuring Stush",
+        "title": "Dollar Sign",
+        "where": "text"
+      },
+      {
+        "artist": "Ryuichi Sakamoto",
+        "title": "Bamboo Houses",
+        "where": "text"
+      },
+      {
+        "artist": "Lethal Bizzle",
+        "title": "Pow",
+        "where": "text"
+      },
+      {
+        "artist": "Jammer",
+        "title": "Dagenham Dave,",
+        "where": "text"
+      },
+      {
+        "artist": "Some will credit Pay As U Go",
+        "title": "Know We",
+        "where": "text"
+      },
+      {
+        "artist": "So Solid Crew",
+        "title": "Dilemma",
+        "where": "text"
+      },
+      {
+        "artist": "Wiley",
+        "title": "Wot Do U Call It",
+        "where": "text"
+      },
+      {
+        "artist": "UK Top 20 single with Lethal Bizzle",
+        "title": "Pow! (Forward)",
+        "where": "text"
+      },
+      {
+        "artist": "Wiley",
+        "title": "Wearing My Rolex",
+        "where": "text"
+      },
+      {
+        "artist": "Tinchy Stryder",
+        "title": "Stryderman",
+        "where": "text"
+      },
+      {
+        "artist": "Roll Deep",
+        "title": "Do Me Wrong",
+        "where": "text"
+      },
+      {
+        "artist": "Skepta",
+        "title": "Rolex Sweep",
+        "where": "text"
+      },
+      {
+        "artist": "Meridian Dan",
+        "title": "German Whip",
+        "where": "text"
+      },
+      {
+        "artist": "Slash",
+        "title": "Birmingham",
+        "where": "text"
+      },
+      {
+        "artist": "C4",
+        "title": "Oorite",
+        "where": "text"
+      },
+      {
+        "artist": "fourth edition of Lady Leshurr",
+        "title": "Queen's Speech",
+        "where": "text"
+      },
+      {
+        "artist": "Afrikan Boy",
+        "title": "One Day I Went to Lidl",
+        "where": "text"
+      },
+      {
+        "artist": "Crew Perth heavily incorporate the UK",
+        "title": "Rave",
+        "where": "text"
+      },
+      {
+        "artist": "Youngstar",
+        "title": "Pulse X",
+        "where": "text"
+      },
+      {
+        "artist": "Lady Leshurr",
+        "title": "Queen's Speech Ep.4",
+        "where": "ref"
+      },
+      {
+        "artist": "艾福杰尼 ft. Cadell",
+        "title": "2 Much（首支中文 Grime 单曲）",
+        "where": "ref"
+      }
+    ]
+  },
+  {
+    "n": 101,
+    "name": "Deconstructed Club",
+    "family": "global",
+    "article": "Deconstructed club",
+    "current": "SOPHIE — Faceshopping",
+    "isotopes": [
+      "Arca — Nonbinary"
+    ],
+    "artists": [
+      "SOPHIE",
+      "Arca",
+      "Lotic"
+    ],
+    "artistsOnWiki": [
+      "SOPHIE",
+      "Arca"
+    ],
+    "flags": [],
+    "candidates": [
+      {
+        "artist": "Advisor later described it as the scene",
+        "title": "most complete statement",
+        "where": "text"
+      }
+    ]
+  },
+  {
+    "n": 102,
+    "name": "Drift Phonk",
+    "family": "global",
+    "article": "Phonk",
+    "current": "Kordhell — Murder In My Mind",
+    "isotopes": [
+      "PlayaPhonk — PHONKY TOWN",
+      "DVRST — Close Eyes"
+    ],
+    "artists": [
+      "Kordhell",
+      "PlayaPhonk",
+      "DVRST"
+    ],
+    "artistsOnWiki": [
+      "Kordhell"
+    ],
+    "flags": [],
+    "candidates": [
+      {
+        "artist": "Celsius",
+        "title": "rare phonk",
+        "where": "text"
+      },
+      {
+        "artist": "TikTok with songs such as BellyJay",
+        "title": "Montagem Hikari",
+        "where": "text"
+      }
+    ]
+  },
+  {
+    "n": 103,
+    "name": "Singeli",
+    "family": "global",
+    "article": "Singeli",
+    "current": "Jay Mitta — Tatizo Pesa",
+    "isotopes": [],
+    "artists": [
+      "Jay Mitta",
+      "Duke",
+      "Sisso"
+    ],
+    "artistsOnWiki": [],
+    "flags": [
+      "track artist not on Wikipedia",
+      "article names no tracks"
+    ],
+    "candidates": []
+  }
+]

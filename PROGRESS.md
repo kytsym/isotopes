@@ -27,11 +27,26 @@
 
 - [x] Git repo on `main`, pushed to GitHub.
 
-- [x] **Live on GitHub Pages** (2026-10-21): https://kytsym.github.io/edm-periodic-table/
-  - Repo: https://github.com/kytsym/edm-periodic-table (public, Pages serves `main` / root, no build step)
+- [x] **Live on GitHub Pages** (2026-10-21): https://kytsym.github.io/isotopes/ (was edm-periodic-table; repo renamed)
+  - Repo: https://github.com/kytsym/isotopes (public, Pages serves `main` / root, no build step)
   - Checked on the live site: tracks play inside the card (Kraftwerk, Frankie Knuckles, Headhunterz, Uncle Waffles),
     switching genres changes the track, and the phone layout opens in families view with no sideways scroll
   - To update it: commit to `main` and `git push`. Pages rebuilds in about 30 seconds.
+
+## Isotopes release (2026-10-21)
+Plan: `~/.claude/plans/i-think-the-site-cozy-metcalfe.md`
+- [x] Renamed to "Isotopes: a periodic table of electronic music" (page, README, build output `dist/isotopes.html`); GitHub repo renamed to `isotopes`
+- [x] `data/elements.js`: each genre has a track list (signature first + isotopes), 388 tracks; Hard Trance leads with Jones & Stephenson, Scooter removed from Happy Hardcore
+- [x] `data/tracks.js` now keyed by "Artist — Title"; `tools/find-tracks.mjs` handles lists and flags title mismatches with "?"
+- [x] `app.js`: isotope rotation (remembered per browser), "Next isotope ›", playlist button, My Table view (star, note, reorder, family split, connections, where-next, share link `#my=`)
+- [x] `tools/wiki-review.mjs` → `review/genre-review.md`; `tools/find-playlists.mjs` → `data/playlists.js`
+- [x] Tested locally: rotation, star/note, share link round-trip, no console errors
+- [x] 386/386 tracks have YouTube ids. Fixed wrong matches by hand (Marshall Jefferson original, Thievery Corporation, London Elektricity, Hooverphonic, Tapp, Farley Jackmaster Funk, DJ Seduction, Donae'o); dropped Neelix and Ansome picks; Dubdogz → "Infinity"
+- [x] 117/118 genres have playlists (Electronic Dub has none: the only match was off-genre)
+- [x] `review/genre-review.md` regenerated with every isotope
+- [x] Tested locally: playlist plays in the card, phone width (fixed a card overflow from long playlist titles), light and dark mode
+- [ ] **User:** go through `review/genre-review.md` and choose track swaps
+- [ ] Republish the Artifact from `dist/isotopes.html` (built; not yet republished)
 
 ## Open
 1. Some tracks are fan uploads rather than official ones (for example Acid Tracks, Strings of Life, Quadrant Dub). They may get taken down later;

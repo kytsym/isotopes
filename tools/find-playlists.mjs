@@ -1,0 +1,151 @@
+// Finds a YouTube playlist for every genre, for the card's "Play the full playlist" button.
+//
+//   node tools/find-playlists.mjs            # fill in missing playlists only
+//   node tools/find-playlists.mjs --all      # re-search every genre
+//   node tools/find-playlists.mjs 32 53      # re-search specific atomic numbers
+//
+// It searches YouTube's playlist results for "<genre> classics" (then "<genre> playlist"), and
+// scores each result: the title must name the genre, a size of 15–400 videos is preferred, and
+// words like "classics" or "anthems" help. The winner is checked through oEmbed so it exists
+// and is public. Playlists belong to strangers, so eyeball the printed titles.
+
+import fs from 'node:fs';
+import path from 'node:path';
+import vm from 'node:vm';
+import { fileURLToPath } from 'node:url';
+
+const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
+const ctx = {};
+vm.createContext(ctx);
+vm.runInContext(fs.readFileSync(path.join(root, 'data/elements.js'), 'utf8') + ';this.ELEMENTS=ELEMENTS', ctx);
+const elements = ctx.ELEMENTS;
+
+const file = path.join(root, 'data/playlists.js');
+let existing = {};
+if (fs.existsSync(file)) {
+  const c = {};
+  vm.createContext(c);
+  vm.runInContext(fs.readFileSync(file, 'utf8') + ';this.PLAYLISTS=PLAYLISTS', c);
+  existing = c.PLAYLISTS;
+}
+
+const args = process.argv.slice(2);
+const all = args.includes('--all');
+const only = args.filter((a) => /^\d+$/.test(a)).map(Number);
+
+const UA = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126 Safari/537.36';
+const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
+
+async function get(url) {
+  for (let attempt = 1; ; attempt++) {
+    try {
+      return await fetch(url, { headers: { 'User-Agent': UA, 'Accept-Language': 'en' } });
+    } catch (e) {
+      if (attempt >= 4) throw e;
+      await sleep(1500 * attempt);
+    }
+  }
+}
+
+// Playlist results from YouTube's search page: [{ id, title, count, channel }]
+async function searchPlaylists(q) {
+  const url = 'https://www.youtube.com/results?hl=en&sp=EgIQAw%253D%253D&search_query=' + encodeURIComponent(q);
+  const html = await (await get(url)).text();
+  const m = html.match(/var ytInitialData = (\{.*?\});<\/script>/s);
+  if (!m) return [];
+  const found = [];
+  (function walk(o) {
+    if (!o || typeof o !== 'object') return;
+    const l = o.lockupViewModel;
+    if (l && l.contentType === 'LOCKUP_CONTENT_TYPE_PLAYLIST') {
+      const meta = l.metadata?.lockupMetadataViewModel;
+      const count = JSON.stringify(l.contentImage || {}).match(/"text":"([\d,]+) videos?"/);
+      const rows = meta?.metadata?.contentMetadataViewModel?.metadataRows || [];
+      found.push({
+        id: l.contentId,
+        title: meta?.title?.content || '',
+        count: count ? Number(count[1].replace(/,/g, '')) : 0,
+        channel: rows[0]?.metadataParts?.[0]?.text?.content || '',
+      });
+      return;
+    }
+    for (const k in o) walk(o[k]);
+  })(JSON.parse(m[1]));
+  return found;
+}
+
+// Searches that work better than "<genre> classics" for genres whose name is ambiguous on YouTube
+const QUERIES = {
+  1: ['80s synth pop classics'],
+  3: ['electro funk classics 80s', 'electro breaks classics'],
+  23: ['deep house classics 90s', 'classic deep house'],
+  88: ['nu disco classics', 'nu-disco essentials', 'nudisco'],
+  66: ['dub electronica classics', 'electronic dub'],
+};
+
+const norm = (s) => s.toLowerCase().normalize('NFKD').replace(/&/g, ' and ').replace(/[^a-z0-9]+/g, ' ').trim();
+const ALIASES = { 'drum and bass': ['dnb', 'd and b'], 'trap edm': ['trap'], 'footwork juke': ['footwork', 'juke'],
+  'ballroom vogue house': ['ballroom', 'vogue'], 'synth pop electro': ['synth pop', 'synthpop'], 'idm': ['intelligent dance'] };
+
+function score(el, p) {
+  const t = norm(p.title);
+  const name = norm(el.name);
+  const names = [name, ...(ALIASES[name] || [])];
+  if (!names.some((n) => t.includes(n) || t.replace(/ /g, '').includes(n.replace(/ /g, '')))) return -1;
+  let s = 10;
+  if (p.count >= 15 && p.count <= 400) s += 3;
+  else if (p.count < 8) s -= 4;
+  if (/classic|best|essential|anthem|greatest|history|legend|top/.test(t)) s += 2;
+  if (/podcast|tutorial|how to|sample|remix pack|reaction|type beat/.test(t)) s -= 10;
+  return s;
+}
+
+async function oembedOk(id) {
+  const res = await get('https://www.youtube.com/oembed?format=json&url=' +
+    encodeURIComponent('https://www.youtube.com/playlist?list=' + id));
+  return res.ok;
+}
+
+const out = { ...existing };
+const quote = (s) => "'" + s.replace(/\\/g, '\\\\').replace(/'/g, "\\'") + "'";
+function save() {
+  const lines = Object.keys(out).map(Number).sort((a, b) => a - b)
+    .map((n) => `  ${n}: { id: '${out[n].id}', title: ${quote(out[n].title)}, count: ${out[n].count} },`);
+  fs.writeFileSync(file,
+    '// YouTube playlists keyed by atomic number: { id, title, count }. Generated by tools/find-playlists.mjs; safe to hand-edit.\n' +
+    'const PLAYLISTS = {\n' + lines.join('\n') + '\n};\n');
+}
+
+for (const el of elements) {
+  const todo = only.length ? only.includes(el.n) : all || !out[el.n];
+  if (!todo) continue;
+  let best = null;
+  try {
+    for (const q of QUERIES[el.n] || [`${el.name} classics`, `${el.name} playlist`]) {
+      const ranked = (await searchPlaylists(q))
+        .map((p) => ({ ...p, score: score(el, p) }))
+        .filter((p) => p.score > 0)
+        .sort((a, b) => b.score - a.score || b.count - a.count);
+      for (const p of ranked.slice(0, 3)) {
+        if (await oembedOk(p.id)) { best = p; break; }
+      }
+      if (best) break;
+      await sleep(250);
+    }
+  } catch (e) {
+    console.log(`${el.n}\t${el.name}\tERROR ${e.message}`);
+    continue;
+  }
+  if (best) {
+    out[el.n] = { id: best.id, title: best.title, count: best.count };
+    save();
+    console.log(`${el.n}\t${el.name}\t=> ${best.title}\t(${best.count} videos, ${best.channel})`);
+  } else {
+    delete out[el.n];
+    console.log(`${el.n}\t${el.name}\t=> NOT FOUND`);
+  }
+  await sleep(250);
+}
+
+save();
+console.log(`\n${Object.keys(out).length}/${elements.length} genres have playlists.`);

@@ -19,4 +19,4 @@ http.createServer((req, res) => {
     res.writeHead(200, { 'Content-Type': (types[path.extname(file)] || 'application/octet-stream') + '; charset=utf-8' });
     res.end(data);
   });
-}).listen(port, () => console.log(`Periodic Table of EDM → http://localhost:${port}`));
+}).listen(port, () => console.log(`Isotopes → http://localhost:${port}`));

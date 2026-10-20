@@ -1,6 +1,6 @@
 // Bundles the site into one self-contained page for publishing as a Claude Artifact.
 //
-//   node tools/build-artifact.mjs      → dist/periodic-table-of-edm.html
+//   node tools/build-artifact.mjs      → dist/isotopes.html
 //
 // Artifacts can't embed YouTube, so the bundle sets window.EDM_LINK_OUT and each genre
 // card links out to YouTube instead of playing inline. The local site is unchanged.
@@ -48,6 +48,6 @@ ${body.trim()}
 `;
 
 fs.mkdirSync(path.join(root, 'dist'), { recursive: true });
-const dest = path.join(root, 'dist/periodic-table-of-edm.html');
+const dest = path.join(root, 'dist/isotopes.html');
 fs.writeFileSync(dest, out);
 console.log(`Wrote ${path.relative(root, dest)} (${(out.length / 1024).toFixed(1)} KB)`);

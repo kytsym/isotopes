@@ -3,8 +3,8 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-  <title>Periodic Table of EDM</title>
-  <meta name="description" content="The periodic table of electronic dance music: 118 genres and subgenres, each with a track to play.">
+  <title>Isotopes · a periodic table of electronic music</title>
+  <meta name="description" content="Isotopes: a periodic table of electronic music. 118 genres, each with several tracks to play, and a table of your own to build.">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;700&family=JetBrains+Mono:wght@400;600&display=swap" rel="stylesheet">
@@ -13,8 +13,8 @@
 <body>
   <header class="top">
     <div class="title">
-      <h1>The Periodic Table of <span>Electronic Dance Music</span></h1>
-      <p class="sub">118 genres arranged like the elements. Tap one to hear it.</p>
+      <h1><span>Isotopes</span> <small>a periodic table of electronic music</small></h1>
+      <p class="sub">118 genres arranged like the elements, each with its own isotopes: open one again to hear another track. Star the ones that made you, and build your own table.</p>
     </div>
     <div class="controls">
       <label class="search">
@@ -24,6 +24,7 @@
       <div class="view-toggle" role="group" aria-label="View">
         <button type="button" data-view="table">Table</button>
         <button type="button" data-view="families">Families</button>
+        <button type="button" data-view="mine">My table <span class="mine-count" id="mine-count"></span></button>
       </div>
     </div>
   </header>
@@ -37,6 +38,8 @@
     </section>
 
     <section id="families-view" class="view" aria-label="Genres by family"></section>
+
+    <section id="mine-view" class="view" aria-label="My table"></section>
   </main>
 
   <footer class="foot">
@@ -69,6 +72,18 @@
             <div><p class="now-label">Now playing</p><p class="now-track" id="m-track"></p></div>
             <a id="m-yt" class="yt-link" target="_blank" rel="noopener">Open on YouTube ↗</a>
           </div>
+          <div class="iso-bar">
+            <span class="iso-count" id="m-iso"></span>
+            <button type="button" class="pill" id="m-iso-next">Next isotope ›</button>
+            <a class="pill" id="m-playlist" target="_blank" rel="noopener" hidden>▶ Play the full playlist</a>
+          </div>
+          <div class="mine-box">
+            <button type="button" class="pill star" id="m-star" aria-pressed="false">☆ Add to my table</button>
+            <label class="mine-note" id="m-note-wrap" hidden>
+              <span>The track that got me into it <button type="button" class="link-btn" id="m-note-use">use this one</button></span>
+              <input id="m-note" type="text" maxlength="140" autocomplete="off" placeholder="e.g. heard it at Gatecrasher, 1999">
+            </label>
+          </div>
         </div>
         <div class="m-info">
           <p class="m-blurb" id="m-blurb"></p>
@@ -89,6 +104,7 @@
 
   <script src="data/elements.js"></script>
   <script src="data/tracks.js"></script>
+  <script src="data/playlists.js"></script>
   <script src="app.js"></script>
 </body>
 </html>
