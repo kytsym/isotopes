@@ -25,9 +25,25 @@
     The local site still plays tracks inline.
   - To update it: `node tools/build-artifact.mjs`, then republish `dist/periodic-table-of-edm.html` to the same URL.
 
+- [x] Local git repo on `main` with everything committed (no remote yet).
+
+## Next: resume on the MacBook (paused 2026-10-20)
+The user's GitHub account and setup live on their MacBook, so the GitHub Pages deploy happens there.
+
+**Goal:** a public site at `https://kytsym.github.io/edm-periodic-table/` where the built-in YouTube player plays tracks
+in the page. The Artifact can't do this because it links out. The site needs nothing beyond static files (no build step, no Supabase).
+
+1. Unzip `edm-periodic-table.zip` on the Mac. It includes the `.git` history.
+2. Open the folder in the Claude app (Code tab) and say "resume".
+3. Create a **public** repo named `edm-periodic-table` on GitHub (free Pages requires public), with no README so it stays empty.
+   With the GitHub CLI: `gh repo create edm-periodic-table --public --source . --push`
+   Otherwise: `git remote add origin https://github.com/kytsym/edm-periodic-table.git && git push -u origin main`
+4. Turn on Pages: repo Settings → Pages → Source "Deploy from a branch" → `main` / root.
+   With the CLI: `gh api repos/kytsym/edm-periodic-table/pages -X POST -f "source[branch]=main" -f "source[path]=/"`
+5. Verify: open the Pages URL, click H, and confirm Kraftwerk "Tour De France" plays inside the card.
+   Then spot-check one element per family on desktop and at phone width.
+
 ## Open
-1. Optional: more genre or track changes from the user.
-2. Optional: host the folder on GitHub Pages or Netlify to share a version with the inline player.
-2. Some tracks are fan uploads rather than official ones (for example Acid Tracks, Strings of Life, Quadrant Dub). They may get taken down later;
+1. Some tracks are fan uploads rather than official ones (for example Acid Tracks, Strings of Life, Quadrant Dub). They may get taken down later;
    rerun `node tools/find-tracks.mjs <number>` if one stops playing.
-3. Optional: publish online (as a private Artifact or on a static host such as GitHub Pages).
+2. Optional: more genre or track changes from the user.
