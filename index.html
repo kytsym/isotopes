@@ -1,0 +1,94 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>Periodic Table of EDM</title>
+  <meta name="description" content="The periodic table of electronic dance music: 118 genres and subgenres, each with a track to play.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;700&family=JetBrains+Mono:wght@400;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="top">
+    <div class="title">
+      <h1>The Periodic Table of <span>Electronic Dance Music</span></h1>
+      <p class="sub">118 genres arranged like the elements. Tap one to hear it.</p>
+    </div>
+    <div class="controls">
+      <label class="search">
+        <span class="visually-hidden">Search genres or BPM</span>
+        <input id="search" type="search" placeholder="Search genre, artist or BPM…" autocomplete="off">
+      </label>
+      <div class="view-toggle" role="group" aria-label="View">
+        <button type="button" data-view="table">Table</button>
+        <button type="button" data-view="families">Families</button>
+      </div>
+    </div>
+  </header>
+
+  <main>
+    <section id="table-view" class="view" aria-label="Periodic table">
+      <div class="table-scroll">
+        <div id="grid" class="grid" role="grid" aria-label="Genres"></div>
+      </div>
+      <p class="hint">Use the arrow keys to move between elements and Enter to open one. <span class="desk-only">Hover over the legend to highlight a family.</span></p>
+    </section>
+
+    <section id="families-view" class="view" aria-label="Genres by family"></section>
+  </main>
+
+  <footer class="foot">
+    <p>Genre taxonomy adapted from <a href="https://www.mixgraph.io/tools/genre-tree" target="_blank" rel="noopener">mixgraph</a>,
+      <a href="https://ozgymusic.com/tools/electronic-music-family-tree" target="_blank" rel="noopener">Ozgy's family tree</a> and
+      <a href="https://mendiak.github.io/pulse.roots/" target="_blank" rel="noopener">Pulse Roots</a>.
+      Elements marked <span class="sug-dot" aria-hidden="true"></span> are suggested additions. <span id="stream-note">Tracks stream from YouTube.</span></p>
+  </footer>
+
+  <dialog id="modal" aria-labelledby="m-name">
+    <div class="sheet">
+      <div class="m-head">
+        <div class="m-tile" id="m-tile"></div>
+        <div class="m-titles">
+          <p class="m-family" id="m-family"></p>
+          <h2 id="m-name"></h2>
+          <p class="m-meta" id="m-meta"></p>
+        </div>
+        <div class="m-nav">
+          <button type="button" class="icon-btn" id="m-prev" aria-label="Previous element">‹</button>
+          <button type="button" class="icon-btn" id="m-next" aria-label="Next element">›</button>
+          <button type="button" class="icon-btn" id="m-close" aria-label="Close">✕</button>
+        </div>
+      </div>
+      <div class="m-body">
+        <div class="m-player">
+          <div class="player-frame"><div id="yt-player"></div><a id="play-out" class="play-out" target="_blank" rel="noopener" hidden></a><div class="player-msg" id="player-msg" hidden></div></div>
+          <div class="now">
+            <span class="eq" aria-hidden="true"><i></i><i></i><i></i></span>
+            <div><p class="now-label">Now playing</p><p class="now-track" id="m-track"></p></div>
+            <a id="m-yt" class="yt-link" target="_blank" rel="noopener">Open on YouTube ↗</a>
+          </div>
+        </div>
+        <div class="m-info">
+          <p class="m-blurb" id="m-blurb"></p>
+          <h3>Key artists</h3>
+          <div class="chips" id="m-artists"></div>
+          <a class="wiki" id="m-wiki" target="_blank" rel="noopener">Read more on Wikipedia ↗</a>
+          <p class="m-sug" id="m-sug" hidden>Suggested addition, not in the reference taxonomy.</p>
+        </div>
+      </div>
+      <div class="m-related">
+        <h3>Related genres</h3>
+        <div class="chips" id="m-related"></div>
+        <h3 id="m-fam-h">Same family</h3>
+        <div class="chips" id="m-same"></div>
+      </div>
+    </div>
+  </dialog>
+
+  <script src="data/elements.js"></script>
+  <script src="data/tracks.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
