@@ -1,4 +1,4 @@
-# Progress: updated 2026-10-20
+# Progress: updated 2026-10-21
 
 ## Done
 - [x] `data/elements.js`: all 118 genres mapped to their periodic-table positions (validated: no gaps, unique symbols, every related link resolves)
@@ -25,23 +25,13 @@
     The local site still plays tracks inline.
   - To update it: `node tools/build-artifact.mjs`, then republish `dist/periodic-table-of-edm.html` to the same URL.
 
-- [x] Local git repo on `main` with everything committed (no remote yet).
+- [x] Git repo on `main`, pushed to GitHub.
 
-## Next: resume on the MacBook (paused 2026-10-20)
-The user's GitHub account and setup live on their MacBook, so the GitHub Pages deploy happens there.
-
-**Goal:** a public site at `https://kytsym.github.io/edm-periodic-table/` where the built-in YouTube player plays tracks
-in the page. The Artifact can't do this because it links out. The site needs nothing beyond static files (no build step, no Supabase).
-
-1. Unzip `edm-periodic-table.zip` on the Mac. It includes the `.git` history.
-2. Open the folder in the Claude app (Code tab) and say "resume".
-3. Create a **public** repo named `edm-periodic-table` on GitHub (free Pages requires public), with no README so it stays empty.
-   With the GitHub CLI: `gh repo create edm-periodic-table --public --source . --push`
-   Otherwise: `git remote add origin https://github.com/kytsym/edm-periodic-table.git && git push -u origin main`
-4. Turn on Pages: repo Settings → Pages → Source "Deploy from a branch" → `main` / root.
-   With the CLI: `gh api repos/kytsym/edm-periodic-table/pages -X POST -f "source[branch]=main" -f "source[path]=/"`
-5. Verify: open the Pages URL, click H, and confirm Kraftwerk "Tour De France" plays inside the card.
-   Then spot-check one element per family on desktop and at phone width.
+- [x] **Live on GitHub Pages** (2026-10-21): https://kytsym.github.io/edm-periodic-table/
+  - Repo: https://github.com/kytsym/edm-periodic-table (public, Pages serves `main` / root, no build step)
+  - Checked on the live site: tracks play inside the card (Kraftwerk, Frankie Knuckles, Headhunterz, Uncle Waffles),
+    switching genres changes the track, and the phone layout opens in families view with no sideways scroll
+  - To update it: commit to `main` and `git push`. Pages rebuilds in about 30 seconds.
 
 ## Open
 1. Some tracks are fan uploads rather than official ones (for example Acid Tracks, Strings of Life, Quadrant Dub). They may get taken down later;
